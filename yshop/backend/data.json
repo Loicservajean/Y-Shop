@@ -1,0 +1,63 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "nom": "T-Shirt Classic",
+      "description": "Un t-shirt classique en coton bio, confortable et respirant. Idéal pour toutes les occasions du quotidien. Disponible en plusieurs couleurs et tailles. Fabriqué de manière éthique avec des matériaux durables et respectueux de l'environnement. Un incontournable de votre garde-robe.",
+      "prix": 29.99,
+      "devise": "EUR",
+      "stock": 50,
+      "images": [
+        "images/tshirt-blanc-1.jpg",
+        "images/tshirt-blanc-2.jpg"
+      ],
+      "caracteristiques": {
+        "sexe": "homme",
+        "type": "t-shirt",
+        "couleurs": ["blanc", "noir", "gris"],
+        "tailles": ["S", "M", "L", "XL"],
+        "matiere": "coton bio"
+      }
+    },
+    {
+      "id": 2,
+      "nom": "Jean Slim",
+      "description": "Jean slim coupe moderne, taille mi-haute. Fabriqué en denim de qualité supérieure avec un léger stretch pour plus de confort. Parfait pour un look casual ou habillé. Sa coupe ajustée met en valeur la silhouette tout en restant confortable pour une utilisation quotidienne.",
+      "prix": 59.99,
+      "devise": "EUR",
+      "stock": 30,
+      "images": [
+        "images/jean-bleu-1.jpg",
+        "images/jean-bleu-2.jpg"
+      ],
+      "caracteristiques": {
+        "sexe": "femme",
+        "type": "pantalon",
+        "couleurs": ["bleu", "noir"],
+        "tailles": ["36", "38", "40", "42"],
+        "matiere": "denim"
+      }
+    },
+    {
+      "id": 3,
+      "nom": "Veste en Cuir",
+      "description": "Veste en cuir véritable, style biker intemporel. Cette veste robuste et élégante est confectionnée à partir de cuir pleine fleur de haute qualité. Ses finitions soignées et ses multiples poches la rendent aussi pratique que stylée. Un must-have pour apporter du caractère à vos tenues.",
+      "prix": 149.99,
+      "devise": "EUR",
+      "stock": 15,
+      "images": [
+        "images/veste-cuir-1.jpg",
+        "images/veste-cuir-2.jpg"
+      ],
+      "caracteristiques": {
+        "sexe": "homme",
+        "type": "veste",
+        "couleurs": ["noir", "marron"],
+        "tailles": ["S", "M", "L", "XL"],
+        "matiere": "cuir"
+      }
+    }
+  ],
+  "panier": [],
+  "favoris": []
+}

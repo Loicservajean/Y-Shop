@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Y-Shop - Catalogue</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+  <header>
+    <h1>Y-Shop</h1>
+    <nav>
+      <a href="cart.html">🛒 Panier</a>
+      <a href="favorites.html">❤️ Favoris</a>
+    </nav>
+  </header>
+
+  <main>
+    <!-- Filtres -->
+    <section id="filtres">
+      <select id="filtreCategorie">
+        <option value="">Toutes les catégories</option>
+        <option value="t-shirt">T-Shirt</option>
+        <option value="pantalon">Pantalon</option>
+        <option value="veste">Veste</option>
+      </select>
+
+      <select id="filtreSexe">
+        <option value="">Homme / Femme</option>
+        <option value="homme">Homme</option>
+        <option value="femme">Femme</option>
+      </select>
+
+      <select id="tri">
+        <option value="">Trier par</option>
+        <option value="prixAsc">Prix croissant</option>
+        <option value="prixDesc">Prix décroissant</option>
+        <option value="nom">Nom A-Z</option>
+      </select>
+    </section>
+
+    <!-- Liste produits -->
+    <section id="catalogue"></section>
+  </main>
+
+  <script src="../js/catalogue.js"></script>
+</body>
+</html>
