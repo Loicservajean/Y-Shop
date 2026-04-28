@@ -3,13 +3,12 @@
     {
       "id": 1,
       "nom": "Alice Margatroid Plush",
-      "description": "Description à compléter.",
+      "description": "",
       "prix": 0.00,
       "devise": "EUR",
       "stock": 0,
       "images": [
-        "images/alice-margatroid-plush-1.jpg",
-        "images/alice-margatroid-plush-2.jpg"
+        "images/alice-margatroid-plush-1.jpg"
       ],
       "caracteristiques": {
         "type": "plush",
@@ -19,13 +18,12 @@
     {
       "id": 2,
       "nom": "Cirno Plush",
-      "description": "Description à compléter.",
+      "description": "",
       "prix": 0.00,
       "devise": "EUR",
       "stock": 0,
       "images": [
-        "images/cirno-plush-1.jpg",
-        "images/cirno-plush-2.jpg"
+        "images/cirno-plush-1.jpg"
       ],
       "caracteristiques": {
         "type": "plush",
@@ -35,13 +33,12 @@
     {
       "id": 3,
       "nom": "Hinanawi Tenshi Plush",
-      "description": "Description à compléter.",
+      "description": "",
       "prix": 0.00,
       "devise": "EUR",
       "stock": 0,
       "images": [
-        "images/hinanawi-tenshi-plush-1.jpg",
-        "images/hinanawi-tenshi-plush-2.jpg"
+        "images/hinanawi-tenshi-plush-1.jpg"
       ],
       "caracteristiques": {
         "type": "plush",
@@ -51,13 +48,12 @@
     {
       "id": 4,
       "nom": "Koishi Komeiji Plush",
-      "description": "Description à compléter.",
+      "description": "",
       "prix": 0.00,
       "devise": "EUR",
       "stock": 0,
       "images": [
-        "images/koishi-komeiji-plush-1.jpg",
-        "images/koishi-komeiji-plush-2.jpg"
+        "images/koishi-komeiji-plush-1.jpg"
       ],
       "caracteristiques": {
         "type": "plush",
@@ -67,13 +63,12 @@
     {
       "id": 5,
       "nom": "Marisa Kirisame Plush",
-      "description": "Description à compléter.",
+      "description": "",
       "prix": 0.00,
       "devise": "EUR",
       "stock": 0,
       "images": [
-        "images/marisa-kirisame-plush-1.jpg",
-        "images/marisa-kirisame-plush-2.jpg"
+        "images/marisa-kirisame-plush-1.jpg"
       ],
       "caracteristiques": {
         "type": "plush",
@@ -83,13 +78,12 @@
     {
       "id": 6,
       "nom": "Patchouli Knowledge Plush",
-      "description": "Description à compléter.",
+      "description": "",
       "prix": 0.00,
       "devise": "EUR",
       "stock": 0,
       "images": [
-        "images/patchouli-knowledge-plush-1.jpg",
-        "images/patchouli-knowledge-plush-2.jpg"
+        "images/patchouli-knowledge-plush-1.jpg"
       ],
       "caracteristiques": {
         "type": "plush",
@@ -99,13 +93,12 @@
     {
       "id": 7,
       "nom": "Reimu Hakurei Plush",
-      "description": "Description à compléter.",
+      "description": "",
       "prix": 0.00,
       "devise": "EUR",
       "stock": 0,
       "images": [
-        "images/reimu-hakurei-plush-1.jpg",
-        "images/reimu-hakurei-plush-2.jpg"
+        "images/reimu-hakurei-plush-1.jpg"
       ],
       "caracteristiques": {
         "type": "plush",
@@ -115,13 +108,12 @@
     {
       "id": 8,
       "nom": "Reisen Udongein Inaba Plush",
-      "description": "Description à compléter.",
+      "description": "",
       "prix": 0.00,
       "devise": "EUR",
       "stock": 0,
       "images": [
-        "images/reisen-udongein-inaba-plush-1.jpg",
-        "images/reisen-udongein-inaba-plush-2.jpg"
+        "images/reisen-udongein-inaba-plush-1.jpg"
       ],
       "caracteristiques": {
         "type": "plush",
@@ -131,13 +123,12 @@
     {
       "id": 9,
       "nom": "Remilia Scarlet Plush",
-      "description": "Description à compléter.",
+      "description": "",
       "prix": 0.00,
       "devise": "EUR",
       "stock": 0,
       "images": [
-        "images/remilia-scarlet-plush-1.jpg",
-        "images/remilia-scarlet-plush-2.jpg"
+        "images/remilia-scarlet-plush-1.jpg"
       ],
       "caracteristiques": {
         "type": "plush",
@@ -147,13 +138,12 @@
     {
       "id": 10,
       "nom": "Renko Usami Plush",
-      "description": "Description à compléter.",
+      "description": "",
       "prix": 0.00,
       "devise": "EUR",
       "stock": 0,
       "images": [
-        "images/renko-usami-plush-1.jpg",
-        "images/renko-usami-plush-2.jpg"
+        "images/renko-usami-plush-1.jpg"
       ],
       "caracteristiques": {
         "type": "plush",
@@ -163,13 +153,12 @@
     {
       "id": 11,
       "nom": "Sakuya Izayoi Plush",
-      "description": "Description à compléter.",
+      "description": "",
       "prix": 0.00,
       "devise": "EUR",
       "stock": 0,
       "images": [
-        "images/sakuya-izayoi-plush-1.jpg",
-        "images/sakuya-izayoi-plush-2.jpg"
+        "images/sakuya-izayoi-plush-1.jpg"
       ],
       "caracteristiques": {
         "type": "plush",
@@ -179,13 +168,12 @@
     {
       "id": 12,
       "nom": "Satori Komeiji Plush",
-      "description": "Description à compléter.",
+      "description": "",
       "prix": 0.00,
       "devise": "EUR",
       "stock": 0,
       "images": [
-        "images/satori-komeiji-plush-1.jpg",
-        "images/satori-komeiji-plush-2.jpg"
+        "images/satori-komeiji-plush-1.jpg"
       ],
       "caracteristiques": {
         "type": "plush",
@@ -195,13 +183,12 @@
     {
       "id": 13,
       "nom": "Shion Yorigami Plush",
-      "description": "Description à compléter.",
+      "description": "",
       "prix": 0.00,
       "devise": "EUR",
       "stock": 0,
       "images": [
-        "images/shion-yorigami-plush-1.jpg",
-        "images/shion-yorigami-plush-2.jpg"
+        "images/shion-yorigami-plush-1.jpg"
       ],
       "caracteristiques": {
         "type": "plush",
@@ -211,13 +198,12 @@
     {
       "id": 14,
       "nom": "Tewi Inaba Plush",
-      "description": "Description à compléter.",
+      "description": "",
       "prix": 0.00,
       "devise": "EUR",
       "stock": 0,
       "images": [
-        "images/tewi-inaba-plush-1.jpg",
-        "images/tewi-inaba-plush-2.jpg"
+        "images/tewi-inaba-plush-1.jpg"
       ],
       "caracteristiques": {
         "type": "plush",
@@ -227,13 +213,12 @@
     {
       "id": 15,
       "nom": "Youmu Konpaku Plush",
-      "description": "Description à compléter.",
+      "description": "",
       "prix": 0.00,
       "devise": "EUR",
       "stock": 0,
       "images": [
-        "images/youmu-konpaku-plush-1.jpg",
-        "images/youmu-konpaku-plush-2.jpg"
+        "images/youmu-konpaku-plush-1.jpg"
       ],
       "caracteristiques": {
         "type": "plush",
@@ -243,13 +228,12 @@
     {
       "id": 16,
       "nom": "Yuyuko Saigyouji Plush",
-      "description": "Description à compléter.",
+      "description": "",
       "prix": 0.00,
       "devise": "EUR",
       "stock": 0,
       "images": [
-        "images/yuyuko-saigyouji-plush-1.jpg",
-        "images/yuyuko-saigyouji-plush-2.jpg"
+        "images/yuyuko-saigyouji-plush-1.jpg"
       ],
       "caracteristiques": {
         "type": "plush",
