@@ -2,59 +2,258 @@
   "products": [
     {
       "id": 1,
-      "nom": "T-Shirt Classic",
-      "description": "Un t-shirt classique en coton bio, confortable et respirant. Idéal pour toutes les occasions du quotidien. Disponible en plusieurs couleurs et tailles. Fabriqué de manière éthique avec des matériaux durables et respectueux de l'environnement. Un incontournable de votre garde-robe.",
-      "prix": 29.99,
+      "nom": "Alice Margatroid Plush",
+      "description": "Description à compléter.",
+      "prix": 0.00,
       "devise": "EUR",
-      "stock": 50,
+      "stock": 0,
       "images": [
-        "images/tshirt-blanc-1.jpg",
-        "images/tshirt-blanc-2.jpg"
+        "images/alice-margatroid-plush-1.jpg",
+        "images/alice-margatroid-plush-2.jpg"
       ],
       "caracteristiques": {
-        "sexe": "homme",
-        "type": "t-shirt",
-        "couleurs": ["blanc", "noir", "gris"],
-        "tailles": ["S", "M", "L", "XL"],
-        "matiere": "coton bio"
+        "type": "plush",
+        "race": "Humaine"
       }
     },
     {
       "id": 2,
-      "nom": "Jean Slim",
-      "description": "Jean slim coupe moderne, taille mi-haute. Fabriqué en denim de qualité supérieure avec un léger stretch pour plus de confort. Parfait pour un look casual ou habillé. Sa coupe ajustée met en valeur la silhouette tout en restant confortable pour une utilisation quotidienne.",
-      "prix": 59.99,
+      "nom": "Cirno Plush",
+      "description": "Description à compléter.",
+      "prix": 0.00,
       "devise": "EUR",
-      "stock": 30,
+      "stock": 0,
       "images": [
-        "images/jean-bleu-1.jpg",
-        "images/jean-bleu-2.jpg"
+        "images/cirno-plush-1.jpg",
+        "images/cirno-plush-2.jpg"
       ],
       "caracteristiques": {
-        "sexe": "femme",
-        "type": "pantalon",
-        "couleurs": ["bleu", "noir"],
-        "tailles": ["36", "38", "40", "42"],
-        "matiere": "denim"
+        "type": "plush",
+        "race": "Fée"
       }
     },
     {
       "id": 3,
-      "nom": "Veste en Cuir",
-      "description": "Veste en cuir véritable, style biker intemporel. Cette veste robuste et élégante est confectionnée à partir de cuir pleine fleur de haute qualité. Ses finitions soignées et ses multiples poches la rendent aussi pratique que stylée. Un must-have pour apporter du caractère à vos tenues.",
-      "prix": 149.99,
+      "nom": "Hinanawi Tenshi Plush",
+      "description": "Description à compléter.",
+      "prix": 0.00,
       "devise": "EUR",
-      "stock": 15,
+      "stock": 0,
       "images": [
-        "images/veste-cuir-1.jpg",
-        "images/veste-cuir-2.jpg"
+        "images/hinanawi-tenshi-plush-1.jpg",
+        "images/hinanawi-tenshi-plush-2.jpg"
       ],
       "caracteristiques": {
-        "sexe": "homme",
-        "type": "veste",
-        "couleurs": ["noir", "marron"],
-        "tailles": ["S", "M", "L", "XL"],
-        "matiere": "cuir"
+        "type": "plush",
+        "race": "Celestial"
+      }
+    },
+    {
+      "id": 4,
+      "nom": "Koishi Komeiji Plush",
+      "description": "Description à compléter.",
+      "prix": 0.00,
+      "devise": "EUR",
+      "stock": 0,
+      "images": [
+        "images/koishi-komeiji-plush-1.jpg",
+        "images/koishi-komeiji-plush-2.jpg"
+      ],
+      "caracteristiques": {
+        "type": "plush",
+        "race": "Satori"
+      }
+    },
+    {
+      "id": 5,
+      "nom": "Marisa Kirisame Plush",
+      "description": "Description à compléter.",
+      "prix": 0.00,
+      "devise": "EUR",
+      "stock": 0,
+      "images": [
+        "images/marisa-kirisame-plush-1.jpg",
+        "images/marisa-kirisame-plush-2.jpg"
+      ],
+      "caracteristiques": {
+        "type": "plush",
+        "race": "Humaine"
+      }
+    },
+    {
+      "id": 6,
+      "nom": "Patchouli Knowledge Plush",
+      "description": "Description à compléter.",
+      "prix": 0.00,
+      "devise": "EUR",
+      "stock": 0,
+      "images": [
+        "images/patchouli-knowledge-plush-1.jpg",
+        "images/patchouli-knowledge-plush-2.jpg"
+      ],
+      "caracteristiques": {
+        "type": "plush",
+        "race": "Humaine"
+      }
+    },
+    {
+      "id": 7,
+      "nom": "Reimu Hakurei Plush",
+      "description": "Description à compléter.",
+      "prix": 0.00,
+      "devise": "EUR",
+      "stock": 0,
+      "images": [
+        "images/reimu-hakurei-plush-1.jpg",
+        "images/reimu-hakurei-plush-2.jpg"
+      ],
+      "caracteristiques": {
+        "type": "plush",
+        "race": "Humaine"
+      }
+    },
+    {
+      "id": 8,
+      "nom": "Reisen Udongein Inaba Plush",
+      "description": "Description à compléter.",
+      "prix": 0.00,
+      "devise": "EUR",
+      "stock": 0,
+      "images": [
+        "images/reisen-udongein-inaba-plush-1.jpg",
+        "images/reisen-udongein-inaba-plush-2.jpg"
+      ],
+      "caracteristiques": {
+        "type": "plush",
+        "race": "Lapine Terrestre"
+      }
+    },
+    {
+      "id": 9,
+      "nom": "Remilia Scarlet Plush",
+      "description": "Description à compléter.",
+      "prix": 0.00,
+      "devise": "EUR",
+      "stock": 0,
+      "images": [
+        "images/remilia-scarlet-plush-1.jpg",
+        "images/remilia-scarlet-plush-2.jpg"
+      ],
+      "caracteristiques": {
+        "type": "plush",
+        "race": "Vampire"
+      }
+    },
+    {
+      "id": 10,
+      "nom": "Renko Usami Plush",
+      "description": "Description à compléter.",
+      "prix": 0.00,
+      "devise": "EUR",
+      "stock": 0,
+      "images": [
+        "images/renko-usami-plush-1.jpg",
+        "images/renko-usami-plush-2.jpg"
+      ],
+      "caracteristiques": {
+        "type": "plush",
+        "race": "Humaine"
+      }
+    },
+    {
+      "id": 11,
+      "nom": "Sakuya Izayoi Plush",
+      "description": "Description à compléter.",
+      "prix": 0.00,
+      "devise": "EUR",
+      "stock": 0,
+      "images": [
+        "images/sakuya-izayoi-plush-1.jpg",
+        "images/sakuya-izayoi-plush-2.jpg"
+      ],
+      "caracteristiques": {
+        "type": "plush",
+        "race": "Humaine"
+      }
+    },
+    {
+      "id": 12,
+      "nom": "Satori Komeiji Plush",
+      "description": "Description à compléter.",
+      "prix": 0.00,
+      "devise": "EUR",
+      "stock": 0,
+      "images": [
+        "images/satori-komeiji-plush-1.jpg",
+        "images/satori-komeiji-plush-2.jpg"
+      ],
+      "caracteristiques": {
+        "type": "plush",
+        "race": "Satori"
+      }
+    },
+    {
+      "id": 13,
+      "nom": "Shion Yorigami Plush",
+      "description": "Description à compléter.",
+      "prix": 0.00,
+      "devise": "EUR",
+      "stock": 0,
+      "images": [
+        "images/shion-yorigami-plush-1.jpg",
+        "images/shion-yorigami-plush-2.jpg"
+      ],
+      "caracteristiques": {
+        "type": "plush",
+        "race": "Déesse de la pauvreté"
+      }
+    },
+    {
+      "id": 14,
+      "nom": "Tewi Inaba Plush",
+      "description": "Description à compléter.",
+      "prix": 0.00,
+      "devise": "EUR",
+      "stock": 0,
+      "images": [
+        "images/tewi-inaba-plush-1.jpg",
+        "images/tewi-inaba-plush-2.jpg"
+      ],
+      "caracteristiques": {
+        "type": "plush",
+        "race": "Youkai Rabbit"
+      }
+    },
+    {
+      "id": 15,
+      "nom": "Youmu Konpaku Plush",
+      "description": "Description à compléter.",
+      "prix": 0.00,
+      "devise": "EUR",
+      "stock": 0,
+      "images": [
+        "images/youmu-konpaku-plush-1.jpg",
+        "images/youmu-konpaku-plush-2.jpg"
+      ],
+      "caracteristiques": {
+        "type": "plush",
+        "race": "Humaine, Phantom"
+      }
+    },
+    {
+      "id": 16,
+      "nom": "Yuyuko Saigyouji Plush",
+      "description": "Description à compléter.",
+      "prix": 0.00,
+      "devise": "EUR",
+      "stock": 0,
+      "images": [
+        "images/yuyuko-saigyouji-plush-1.jpg",
+        "images/yuyuko-saigyouji-plush-2.jpg"
+      ],
+      "caracteristiques": {
+        "type": "plush",
+        "race": "Phantom"
       }
     }
   ],
