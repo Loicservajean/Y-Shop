@@ -1,3 +1,12 @@
+@font-face {
+  font-family: 'NerdFont';
+  src: url('../fonts/SymbolsNerdFont-Regular.ttf') format('truetype');
+}
+
+.nf {
+  font-family: 'NerdFont';
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -8,21 +17,50 @@ body {
   font-family: Arial, sans-serif;
   background: #f5f5f5;
   color: #333;
+  margin: 0;
+  background-image: url('../Image/assets/BGindex.jpg');
 }
 
 header {
-  background: #222;
-  color: white;
-  padding: 15px 30px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.upheader {
   display: flex;
   justify-content: space-between;
   align-items: center;
+
+  background: #3299ffb1 ;
+  color: white;
+  padding: 15px 30px;
+  width: 100%;
 }
+
+.navigation {
+  display: flex;
+  flex-direction: column; 
+  justify-content: center;
+  align-items: center;
+  background: #5effa1c8; 
+  padding: 10px 30px;
+  width: 100%;
+}
+
+.catalogue {
+  width: 1200px;
+  padding: 20px;
+  background: #222222dd;
+  color: rgb(2, 2, 2);
+  border-radius: 12px;
+}
+
 
 header a {
   color: white;
   text-decoration: none;
-  margin-left: 15px;
+  margin-left: 20px;
 }
 
 main {
