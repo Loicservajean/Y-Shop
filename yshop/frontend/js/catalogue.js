@@ -22,9 +22,9 @@ function afficherProduits(produits) {
     const card = document.createElement('div')
     card.classList.add('product-card')
     card.innerHTML = `
-      <img src="${produit.images[0]}" alt="${produit.nom}"
-        onmouseover="this.src='${produit.images[1]}'"
-        onmouseout="this.src='${produit.images[0]}'">
+      <img src="http://localhost:3000/${produit.images[0]}" alt="${produit.nom}"
+        onmouseover="this.src='http://localhost:3000/${produit.images[1] || produit.images[0]}'"
+        onmouseout="this.src='http://localhost:3000/${produit.images[0]}'">
       <div class="info">
         <h3>${produit.nom}</h3>
         <p class="prix">${produit.prix} ${produit.devise}</p>

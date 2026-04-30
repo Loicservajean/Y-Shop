@@ -8,7 +8,7 @@
       "devise": "EUR",
       "stock": 0,
       "images": [
-        "images/Alice-Margatroid-Plush-bg-1758140800.png"
+        "Images/Alice-Margatroid-Plush.png"
       ],
       "caracteristiques": {
         "type": "plush",
@@ -23,7 +23,7 @@
       "devise": "EUR",
       "stock": 0,
       "images": [
-        "images/Cirno-Plush-bg-1758140802.png"
+        "Images/Cirno-Plush.png"
       ],
       "caracteristiques": {
         "type": "plush",
@@ -38,7 +38,7 @@
       "devise": "EUR",
       "stock": 0,
       "images": [
-        "images/Hinanawi-Tenshi-Plush-bg-1758140805.png"
+        "Images/Hinanawi-Tenshi-Plush.png"
       ],
       "caracteristiques": {
         "type": "plush",
@@ -53,7 +53,7 @@
       "devise": "EUR",
       "stock": 0,
       "images": [
-        "images/Koishi-Komeiji-Plush-bg-1758140808.png"
+        "Images/Koishi-Komeiji-Plush.png"
       ],
       "caracteristiques": {
         "type": "plush",
@@ -68,7 +68,7 @@
       "devise": "EUR",
       "stock": 0,
       "images": [
-        "images/Marisa-Kirisame-Plush-bg-1758140810.png"
+        "Images/Marisa-Kirisame-Plush.png"
       ],
       "caracteristiques": {
         "type": "plush",
@@ -83,7 +83,7 @@
       "devise": "EUR",
       "stock": 0,
       "images": [
-        "images/Patchouli-Knowledge-Plush-bg-1758140812.png"
+        "Images/Patchouli-Knowledge-Plush.png"
       ],
       "caracteristiques": {
         "type": "plush",
@@ -98,7 +98,7 @@
       "devise": "EUR",
       "stock": 0,
       "images": [
-        "images/Reimu-Hakurei-Plush-bg-1758140814.png"
+        "Images/Reimu-Hakurei-Plush.png"
       ],
       "caracteristiques": {
         "type": "plush",
@@ -113,7 +113,7 @@
       "devise": "EUR",
       "stock": 0,
       "images": [
-        "images/Reisen-Udongein-Inaba-Plush-bg-1758140817.png"
+        "Images/Reisen-Udongein-Inaba-Plush.png"
       ],
       "caracteristiques": {
         "type": "plush",
@@ -128,7 +128,7 @@
       "devise": "EUR",
       "stock": 0,
       "images": [
-        "images/Remilia-Scarlet-Plush-bg-1758140819.jpg"
+        "Images/Remilia-Scarlet-Plush.png"
       ],
       "caracteristiques": {
         "type": "plush",
@@ -143,7 +143,7 @@
       "devise": "EUR",
       "stock": 0,
       "images": [
-        "images/Renko-Usami-Plush-bg-1758140822.jpg"
+        "Images/Renko-Usami-Plush.png"
       ],
       "caracteristiques": {
         "type": "plush",
@@ -158,7 +158,7 @@
       "devise": "EUR",
       "stock": 0,
       "images": [
-        "images/Sakuya-Izayoi-Plush-bg-1758140824.jpg"
+        "Images/Sakuya-Izayoi-Plush.png"
       ],
       "caracteristiques": {
         "type": "plush",
@@ -173,7 +173,7 @@
       "devise": "EUR",
       "stock": 0,
       "images": [
-        "images/Satori-Komeiji-Plush-bg-1758140826.jpg"
+        "Images/Satori-Komeiji-Plush.png"
       ],
       "caracteristiques": {
         "type": "plush",
@@ -188,7 +188,7 @@
       "devise": "EUR",
       "stock": 0,
       "images": [
-        "images/Shion-Yorigami-Plush-bg-1758140829.jpg"
+        "Images/Shion-Yorigami-Plush.png"
       ],
       "caracteristiques": {
         "type": "plush",
@@ -203,7 +203,7 @@
       "devise": "EUR",
       "stock": 0,
       "images": [
-        "images/Tewi-Inaba-Plush-bg-1758140831.jpg"
+        "Images/Tewi-Inaba-Plush.png"
       ],
       "caracteristiques": {
         "type": "plush",
@@ -218,7 +218,7 @@
       "devise": "EUR",
       "stock": 0,
       "images": [
-        "images/Youmu-Konpaku-Plush-bg-1758140833.jpg"
+        "Images/Youmu-Konpaku-Plush.png"
       ],
       "caracteristiques": {
         "type": "plush",
@@ -233,7 +233,7 @@
       "devise": "EUR",
       "stock": 0,
       "images": [
-        "images/Yuyuko-Saigyouji-Plush-bg-1758140836.jpg"
+        "Images/Yuyuko-Saigyouji-Plush.png"
       ],
       "caracteristiques": {
         "type": "plush",
