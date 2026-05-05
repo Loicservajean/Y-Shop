@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'NerdFont';
-  src: url('../fonts/SymbolsNerdFont-Regular.ttf') format('truetype');
+  src: url('../font/SymbolsNerdFont-Regular.ttf') format('truetype');
 }
 
 .nf {
@@ -25,6 +25,12 @@ header {
   width: 100%;
   display: flex;
   flex-direction: column;
+  image-rendering: pixelated;
+}
+
+.logo {
+  width: 150px;
+  height: auto;
 }
 
 .upheader {
