@@ -2,27 +2,29 @@
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
-  <title>Y-Shop - Produit</title>
-  <link rel="stylesheet" href="../css/style.css">
+  <title>Touhou - Produit</title>
+  <link rel="stylesheet" href="../css/product.css">
 </head>
 <body>
-
   <header>
-    <h1><a href="index.html">Y-Shop</a></h1>
-    <nav>
-      <a href="cart.html">🛒 Panier</a>
-      <a href="favorites.html">❤️ Favoris</a>
-    </nav>
+    <div class="upheader">
+      <img class="logo" src="../Image/assets/logo.png" alt="Logo Y-Shop">
+    </div>
+    <div class="navigation">
+      <nav class="nav-main">
+        <a href="/"><span class="nf"></span> Accueil</a>
+        <a href="/panier"><span class="nf"></span> Panier</a>
+        <a href="/favoris"><span class="nf"></span> Favoris</a>
+      </nav>
+    </div>
   </header>
 
-  <main id="detail-produit">
-    <!-- Rempli dynamiquement par product.js -->
+  <main>
+    <div class="page-produit">
+      <section id="product-container"></section>
+      <section id="similaires"></section>
+    </div>
   </main>
-
-  <section id="produits-similaires">
-    <h2>Produits similaires</h2>
-    <div id="similaires"></div>
-  </section>
 
   <script src="../js/product.js"></script>
 </body>

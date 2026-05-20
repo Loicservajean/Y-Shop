@@ -1,0 +1,134 @@
+@font-face {
+  font-family: 'NerdFont';
+  src: url('../font/SymbolsNerdFont-Regular.ttf') format('truetype');
+}
+
+.nf { font-family: 'NerdFont'; }
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-image: url('../Image/assets/BGindex.jpg');
+  color: #333;
+}
+
+header {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  image-rendering: pixelated;
+}
+
+.logo {
+  width: 150px;
+}
+
+.upheader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #3299ffb1;
+  padding: 15px 30px;
+}
+
+.navigation {
+  display: flex;
+  justify-content: center;
+  background: #5effa1c8;
+  padding: 10px 30px;
+}
+
+header a {
+  color: white;
+  text-decoration: none;
+  margin-left: 20px;
+}
+
+.page-produit {
+  width: 90%;
+  max-width: 1100px;
+  margin: 40px auto;
+  background: #ffffffee;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.25);
+}
+
+.product-box {
+  display: flex;
+  gap: 30px;
+  margin-bottom: 40px;
+}
+
+.carrousel {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.carrousel img {
+  width: 320px;
+  height: 320px;
+  object-fit: contain;
+  border-radius: 8px;
+}
+
+.carrousel button {
+  padding: 8px 12px;
+  border: none;
+  background: #3299ffb1;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.produit-info {
+  flex: 1;
+}
+
+.produit-info h2 {
+  margin-bottom: 10px;
+}
+
+.produit-info .prix {
+  font-size: 22px;
+  font-weight: bold;
+  color: #e74c3c;
+  margin-bottom: 10px;
+}
+
+.produit-info button {
+  margin-top: 10px;
+  padding: 10px 15px;
+  border: none;
+  background: #5effa1c8;
+  color: #000;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.produit-info button:hover {
+  background: #4cd98c;
+}
+
+#similaires {
+  background: #ffffffdd;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+
+#similaires p {
+  padding: 6px 0;
+  cursor: pointer;
+}
+
+#similaires p:hover {
+  color: #3299ff;
+}

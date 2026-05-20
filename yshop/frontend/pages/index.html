@@ -2,17 +2,20 @@
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
-  <title>Y-Shop - Catalogue</title>
+  <title>Touhou - Catalogue</title>
   <link rel="stylesheet" href="../css/style.css">
 </head>
 <body>
-
   <header>
-    <h1>Y-Shop</h1>
-    <nav>
-      <a href="cart.html">🛒 Panier</a>
-      <a href="favorites.html">❤️ Favoris</a>
-    </nav>
+    <div class="upheader">
+      <img class="logo" src="../Image/assets/logo.png" alt="Logo Touhou">
+    </div>
+    <div class="navigation">
+      <nav class="nav-main">
+        <a href="/"><span class="nf"></span> Accueil</a>
+        <a href="/panier"><span class="nf">󱗫</span> Panier</a>
+        <a href="/favoris"><span class="nf"></span> Favoris</a>
+      </nav>  
   </header>
 
   <main>
@@ -20,15 +23,15 @@
     <section id="filtres">
       <select id="filtreCategorie">
         <option value="">Toutes les catégories</option>
-        <option value="t-shirt">T-Shirt</option>
-        <option value="pantalon">Pantalon</option>
-        <option value="veste">Veste</option>
+        <option value="plush">FUMO</option>
+        <option value="manga">Mangas</option>
+        <option value="jeu">Jeux</option>
       </select>
 
-      <select id="filtreSexe">
-        <option value="">Homme / Femme</option>
-        <option value="homme">Homme</option>
-        <option value="femme">Femme</option>
+      <select id="filtreOrigine">
+        <option value="">Toutes les origines</option>
+        <option value="officiel">Officiel</option>
+        <option value="fan_made">Fan made</option>
       </select>
 
       <select id="tri">
@@ -40,7 +43,7 @@
     </section>
 
     <!-- Liste produits -->
-    <section id="catalogue"></section>
+    <section class="catalogue" id="catalogue"></section>
   </main>
 
   <script src="../js/catalogue.js"></script>
