@@ -7,6 +7,7 @@ function chargerPanier() {
     .then(panier => {
       if (panier.length === 0) {
         document.getElementById('panier-liste').innerHTML = '<p>Votre panier est vide</p>'
+        document.getElementById('total').textContent = '0 €'
         return
       }
       afficherPanier(panier)
@@ -24,24 +25,34 @@ function afficherPanier(panier) {
     fetch(urlAPI + '/products/' + item.productId)
       .then(response => response.json())
       .then(produit => {
+
         total += produit.prix * item.quantite
+
         div.innerHTML += `
-          <div>
-            <p>${produit.nom} x${item.quantite} - ${produit.prix * item.quantite} €</p>
+          <div class="panier-item">
+            <img src="http://localhost:3000/${produit.images[0]}" alt="${produit.nom}">
+            
+            <div class="info">
+              <h3>${produit.nom}</h3>
+              <p>Quantité : ${item.quantite}</p>
+              <p>${(produit.prix * item.quantite).toFixed(2)} €</p>
+            </div>
+
             <button onclick="supprimerDuPanier(${item.productId})">Supprimer</button>
           </div>
         `
+
         document.getElementById('total').textContent = total.toFixed(2) + ' €'
       })
   })
 }
 
 // Supprimer du panier
-function supprimerDuPanier(id) {
-  fetch(urlAPI + '/panier/' + id, { method: 'DELETE' })
-    .then(response => response.json())
-    .then(() => chargerPanier())
-    .catch(error => console.error('Erreur : ', error))
+function supprimerDuPanier(productId) {
+  fetch(urlAPI + '/panier/' + productId, {
+    method: 'DELETE'
+  })
+  .then(() => chargerPanier())
 }
 
 chargerPanier()

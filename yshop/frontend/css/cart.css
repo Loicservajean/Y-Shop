@@ -1,0 +1,126 @@
+@font-face {
+  font-family: 'NerdFont';
+  src: url('../font/SymbolsNerdFont-Regular.ttf') format('truetype');
+}
+
+.nf { font-family: 'NerdFont'; }
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-image: url('../Image/assets/BGindex.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  color: #333;
+}
+
+/* HEADER */
+header {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  image-rendering: pixelated;
+}
+
+.logo {
+  width: 150px;
+}
+
+.upheader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #3299ffb1;
+  padding: 15px 30px;
+}
+
+.navigation {
+  display: flex;
+  justify-content: center;
+  background: #5effa1c8;
+  padding: 10px 30px;
+}
+
+header a {
+  color: white;
+  text-decoration: none;
+  margin-left: 20px;
+}
+
+/* PAGE PANIER */
+.page-panier {
+  width: 90%;
+  max-width: 1100px;
+  margin: 40px auto;
+  background: #ffffffee;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.25);
+}
+
+.page-panier h1 {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+/* LISTE PANIER */
+.panier-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.panier-item {
+  display: flex;
+  align-items: center;
+  background: #ffffffdd;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  gap: 20px;
+}
+
+.panier-item img {
+  width: 120px;
+  height: 120px;
+  object-fit: contain;
+  border-radius: 8px;
+}
+
+.panier-item h3 {
+  margin: 0;
+  font-size: 20px;
+}
+
+.panier-item p {
+  margin: 5px 0;
+  font-size: 16px;
+}
+
+.panier-item button {
+  margin-left: auto;
+  padding: 10px 15px;
+  border: none;
+  background: #ff6b6b;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.panier-item button:hover {
+  background: #e04848;
+}
+
+.panier-total {
+  margin-top: 25px;
+  font-size: 22px;
+  font-weight: bold;
+  text-align: right;
+  color: #e74c3c;
+}

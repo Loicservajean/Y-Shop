@@ -20,6 +20,22 @@ function chargerProduit() {
     })
 }
 
+function ajouterAuPanier(id) {
+  const quantite = parseInt(document.getElementById('quantite').value)
+
+  fetch(urlAPI + '/panier', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({
+      id: id,
+      productId: id,
+      quantite
+    })
+  })
+    .then(() => alert('Produit ajouté au panier !'))
+    .catch(error => console.error('Erreur : ', error))
+}
+
 function afficherProduit(produit) {
   const main = document.getElementById('product-container')
 
