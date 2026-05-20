@@ -100,7 +100,7 @@ function chargerSimilaires(produit) {
       )
       const div = document.getElementById('similaires')
       similaires.forEach(p => {
-        div.innerHTML += `<p onclick="window.location.href='product.html?id=${p.id}'">${p.nom} - ${p.prix}€</p>`
+        div.innerHTML += `<p onclick="window.location.href='/produit?id=${p.id}'">${p.nom} - ${p.prix}€</p>`
       })
     })
 }

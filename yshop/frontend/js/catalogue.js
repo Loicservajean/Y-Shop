@@ -31,7 +31,7 @@ function afficherProduits(produits) {
       </div>
     `
     card.addEventListener('click', () => {
-      window.location.href = `product.html?id=${produit.id}`
+      window.location.href = `/produit?id=${produit.id}`
     })
     catalogue.appendChild(card)
   })
