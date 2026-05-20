@@ -40,18 +40,22 @@ function afficherProduits(produits) {
 // Filtrer les produits
 function filtrerProduits() {
   const categorie = document.getElementById('filtreCategorie').value
-  const sexe = document.getElementById('filtreSexe').value
+  const origine = document.getElementById('filtreOrigine').value
   const tri = document.getElementById('tri').value
 
   let resultat = [...tousLesProduits]
 
+  // Filtre catégorie
   if (categorie) {
-    resultat = resultat.filter(p => p.caracteristiques.type === categorie)
-  }
-  if (sexe) {
-    resultat = resultat.filter(p => p.caracteristiques.sexe === sexe)
+    resultat = resultat.filter(p => p.type === categorie)
   }
 
+  // Filtre origine
+  if (origine) {
+    resultat = resultat.filter(p => p.origine === origine)
+  }
+
+  // Tri
   if (tri === 'prixAsc') resultat.sort((a, b) => a.prix - b.prix)
   if (tri === 'prixDesc') resultat.sort((a, b) => b.prix - a.prix)
   if (tri === 'nom') resultat.sort((a, b) => a.nom.localeCompare(b.nom))
@@ -60,7 +64,7 @@ function filtrerProduits() {
 }
 
 document.getElementById('filtreCategorie').addEventListener('change', filtrerProduits)
-document.getElementById('filtreSexe').addEventListener('change', filtrerProduits)
+document.getElementById('filtreOrigine').addEventListener('change', filtrerProduits)
 document.getElementById('tri').addEventListener('change', filtrerProduits)
 
 chargerProduits()
