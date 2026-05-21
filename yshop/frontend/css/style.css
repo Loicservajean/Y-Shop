@@ -15,6 +15,10 @@ body {
   font-family: Arial, sans-serif;
   background-image: url('../Image/assets/BGindex.jpg');
   color: #333;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
 }
 
 header {
@@ -102,4 +106,19 @@ main {
   color: #e74c3c;
   font-weight: bold;
   font-size: 18px;
+}
+
+.titre-shop {
+  font-size: 28px;
+  font-weight: bold;
+  margin-left: 20px;
+  color: #ffffff;
+  font-family: "Segoe UI", sans-serif;
+}
+
+.upheader {
+  display: flex;
+  justify-content: center; 
+  align-items: center;   
+  gap: 20px;           
 }
