@@ -37,7 +37,7 @@ const getPanier = (req, res) => {
 
 // Ajouter au panier
 const addToPanier = (req, res) => {
-  const { productId, quantite } = req.body
+  const { productId, quantite, variante } = req.body
   const data = lireData()
 
   const product = data.products.find(p => p.id === productId)
@@ -45,11 +45,16 @@ const addToPanier = (req, res) => {
     return res.status(404).json({ message: 'Produit non trouvé' })
   }
 
-  const existant = data.panier.find(p => p.productId === productId)
+  // Refus si stock insuffisant
+  if (product.stock < quantite) {
+    return res.status(400).json({ message: 'Stock insuffisant' })
+  }
+
+  const existant = data.panier.find(p => p.productId === productId && p.variante === variante)
   if (existant) {
     existant.quantite += quantite
   } else {
-    data.panier.push({ productId, quantite })
+    data.panier.push({ productId, quantite, variante })
   }
 
   // Mise à jour du stock
@@ -63,7 +68,18 @@ const removeFromPanier = (req, res) => {
   const id = parseInt(req.params.id)
   const data = lireData()
 
-  data.panier = data.panier.filter(p => p.productId !== id)
+  // Retire 1 unite et rend +1 au stock
+  const item = data.panier.find(p => p.productId === id)
+  item.quantite -= 1
+
+  const product = data.products.find(p => p.id === id)
+  product.stock += 1
+
+  // Si la ligne est vide, on l'enleve du panier
+  if (item.quantite <= 0) {
+    data.panier = data.panier.filter(p => p.productId !== id)
+  }
+
   sauvegarder(data)
   res.status(200).json({ message: 'Supprimé du panier', panier: data.panier })
 }

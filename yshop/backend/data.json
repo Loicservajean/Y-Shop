@@ -6,7 +6,7 @@
       "description": "Adorable peluche fan-made représentant Alice Margatroid, la magicienne manipulatrice de poupées du Manoir du Diable Écarlate. Tissu doux, environ 30cm de haut, coiffe et ruban brodés avec précision.",
       "prix": 6.99,
       "devise": "EUR",
-      "stock": -986,
+      "stock": 86,
       "type": "plush",
       "origine": "fan_made",
       "images": [
@@ -15,7 +15,7 @@
         "FUMO/Alice Margatroid Plush3.webp"
       ],
       "caracteristiques": {
-        "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
+        "variantes": "Édition Standard, Bootleg, Édition Anniversaire",
         "taille": "Standard (30cm)",
         "matiere": "Coton & polyester"
       }
@@ -34,7 +34,7 @@
         "FUMO/Cirno Plush2.webp"
       ],
       "caracteristiques": {
-        "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
+        "variantes": "Édition Standard, Bootleg, Édition Anniversaire",
         "taille": "Standard (30cm)",
         "matiere": "Coton & polyester"
       }
@@ -53,7 +53,7 @@
         "FUMO/Hinanawi Tenshi Plush2.webp"
       ],
       "caracteristiques": {
-        "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
+        "variantes": "Édition Standard, Bootleg, Édition Anniversaire",
         "taille": "Standard (30cm)",
         "matiere": "Coton & polyester"
       }
@@ -73,7 +73,7 @@
         "FUMO/Koishi Komeiji Plush3.webp"
       ],
       "caracteristiques": {
-        "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
+        "variantes": "Édition Standard, Bootleg, Édition Anniversaire",
         "taille": "Standard (30cm)",
         "matiere": "Coton & polyester"
       }
@@ -93,7 +93,7 @@
         "FUMO/Marisa Kirisame Plush3.webp"
       ],
       "caracteristiques": {
-        "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
+        "variantes": "Édition Standard, Bootleg, Édition Anniversaire",
         "taille": "Standard (30cm)",
         "matiere": "Coton & polyester"
       }
@@ -112,7 +112,7 @@
         "FUMO/Patchouli Knowledge Plush2.webp"
       ],
       "caracteristiques": {
-        "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
+        "variantes": "Édition Standard, Bootleg, Édition Anniversaire",
         "taille": "Standard (30cm)",
         "matiere": "Coton & polyester"
       }
@@ -132,7 +132,7 @@
         "FUMO/Reimu Hakurei Plush3.webp"
       ],
       "caracteristiques": {
-        "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
+        "variantes": "Édition Standard, Bootleg, Édition Anniversaire",
         "taille": "Standard (30cm)",
         "matiere": "Coton & polyester"
       }
@@ -151,7 +151,7 @@
         "FUMO/Reisen Udongein Inaba Plush2.webp"
       ],
       "caracteristiques": {
-        "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
+        "variantes": "Édition Standard, Bootleg, Édition Anniversaire",
         "taille": "Standard (30cm)",
         "matiere": "Coton & polyester"
       }
@@ -171,7 +171,7 @@
         "FUMO/Remilia Scarlet Plush3.webp"
       ],
       "caracteristiques": {
-        "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
+        "variantes": "Édition Standard, Bootleg, Édition Anniversaire",
         "taille": "Standard (30cm)",
         "matiere": "Coton & polyester"
       }
@@ -191,7 +191,7 @@
         "FUMO/Renko Usami Plush3.webp"
       ],
       "caracteristiques": {
-        "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
+        "variantes": "Édition Standard, Bootleg, Édition Anniversaire",
         "taille": "Standard (30cm)",
         "matiere": "Coton & polyester"
       }
@@ -211,7 +211,7 @@
         "FUMO/Sakuya Izayoi Plush3.webp"
       ],
       "caracteristiques": {
-        "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
+        "variantes": "Édition Standard, Bootleg, Édition Anniversaire",
         "taille": "Standard (30cm)",
         "matiere": "Coton & polyester"
       }
@@ -231,7 +231,7 @@
         "FUMO/Satori Komeiji Plush3.webp"
       ],
       "caracteristiques": {
-        "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
+        "variantes": "Édition Standard, Bootleg, Édition Anniversaire",
         "taille": "Standard (30cm)",
         "matiere": "Coton & polyester"
       }
@@ -250,7 +250,7 @@
         "FUMO/Shion Yorigami Plush2.webp"
       ],
       "caracteristiques": {
-        "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
+        "variantes": "Édition Standard, Bootleg, Édition Anniversaire",
         "taille": "Standard (30cm)",
         "matiere": "Coton & polyester"
       }
@@ -269,7 +269,7 @@
         "FUMO/Tewi Inaba Plush2.webp"
       ],
       "caracteristiques": {
-        "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
+        "variantes": "Édition Standard, Bootleg, Édition Anniversaire",
         "taille": "Standard (30cm)",
         "matiere": "Coton & polyester"
       }
@@ -288,7 +288,7 @@
         "FUMO/Youmu Konpaku Plush2.webp"
       ],
       "caracteristiques": {
-        "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
+        "variantes": "Édition Standard, Bootleg, Édition Anniversaire",
         "taille": "Standard (30cm)",
         "matiere": "Coton & polyester"
       }
@@ -307,7 +307,7 @@
         "FUMO/Yuyuko Saigyouji Plush2.webp"
       ],
       "caracteristiques": {
-        "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
+        "variantes": "Édition Standard, Bootleg, Édition Anniversaire",
         "taille": "Standard (30cm)",
         "matiere": "Coton & polyester"
       }
@@ -328,7 +328,7 @@
       ],
       "caracteristiques": {
         "type_manga": "Manga officiel",
-        "variantes": "VO Japonais, VA Anglais (Yen Press), Fan-trad FR (PDF)",
+        "variantes": "Édition Standard, Édition Collector, Édition Limitée signée",
         "langue": "Japonais",
         "format": "Coffret relié"
       }
@@ -349,7 +349,7 @@
       ],
       "caracteristiques": {
         "type_manga": "Fanbook officiel",
-        "variantes": "VO Japonais, VA Anglais (Yen Press), Fan-trad FR (PDF)",
+        "variantes": "Édition Standard, Édition Collector, Édition Limitée signée",
         "langue": "Japonais",
         "format": "Broché"
       }
@@ -370,7 +370,7 @@
       ],
       "caracteristiques": {
         "type_manga": "Manga officiel",
-        "variantes": "VO Japonais, VA Anglais (Yen Press), Fan-trad FR (PDF)",
+        "variantes": "Édition Standard, Édition Collector, Édition Limitée signée",
         "langue": "Japonais",
         "format": "Broché"
       }
@@ -391,7 +391,7 @@
       ],
       "caracteristiques": {
         "type_manga": "Manga officiel",
-        "variantes": "VO Japonais, VA Anglais (Yen Press), Fan-trad FR (PDF)",
+        "variantes": "Édition Standard, Édition Collector, Édition Limitée signée",
         "langue": "Japonais",
         "format": "Coffret relié"
       }
@@ -412,7 +412,7 @@
       ],
       "caracteristiques": {
         "type_manga": "Manga officiel",
-        "variantes": "VO Japonais, VA Anglais (Yen Press), Fan-trad FR (PDF)",
+        "variantes": "Édition Standard, Édition Collector, Édition Limitée signée",
         "langue": "Japonais",
         "format": "Broché"
       }
@@ -433,7 +433,7 @@
       ],
       "caracteristiques": {
         "type_manga": "Manga officiel",
-        "variantes": "VO Japonais, VA Anglais (Yen Press), Fan-trad FR (PDF)",
+        "variantes": "Édition Standard, Édition Collector, Édition Limitée signée",
         "langue": "Japonais",
         "format": "Broché"
       }
@@ -454,7 +454,7 @@
       ],
       "caracteristiques": {
         "type_manga": "Manga officiel",
-        "variantes": "VO Japonais, VA Anglais (Yen Press), Fan-trad FR (PDF)",
+        "variantes": "Édition Standard, Édition Collector, Édition Limitée signée",
         "langue": "Japonais",
         "format": "Coffret relié"
       }
@@ -475,7 +475,7 @@
       ],
       "caracteristiques": {
         "type_manga": "Manga officiel",
-        "variantes": "VO Japonais, VA Anglais (Yen Press), Fan-trad FR (PDF)",
+        "variantes": "Édition Standard, Édition Collector, Édition Limitée signée",
         "langue": "Japonais",
         "format": "Coffret relié"
       }
@@ -496,7 +496,7 @@
       ],
       "caracteristiques": {
         "type_manga": "Fanbook officiel",
-        "variantes": "VO Japonais, VA Anglais (Yen Press), Fan-trad FR (PDF)",
+        "variantes": "Édition Standard, Édition Collector, Édition Limitée signée",
         "langue": "Japonais",
         "format": "Broché"
       }
@@ -517,7 +517,7 @@
       ],
       "caracteristiques": {
         "type_manga": "Manga officiel",
-        "variantes": "VO Japonais, VA Anglais (Yen Press), Fan-trad FR (PDF)",
+        "variantes": "Édition Standard, Édition Collector, Édition Limitée signée",
         "langue": "Japonais",
         "format": "Broché"
       }
@@ -538,7 +538,7 @@
       ],
       "caracteristiques": {
         "genre": "Danmaku",
-        "variantes": "Disquette PC-98 (origine), Réédition Windows, Émulation",
+        "variantes": "Édition Standard, Édition Collector, Édition Limitée signée",
         "plateforme": "PC-98",
         "langue": "Japonais (patch anglais dispo)"
       }
@@ -559,7 +559,7 @@
       ],
       "caracteristiques": {
         "genre": "Danmaku",
-        "variantes": "Disquette PC-98 (origine), Réédition Windows, Émulation",
+        "variantes": "Édition Standard, Édition Collector, Édition Limitée signée",
         "plateforme": "PC-98",
         "langue": "Japonais (patch anglais dispo)"
       }
@@ -580,7 +580,7 @@
       ],
       "caracteristiques": {
         "genre": "Versus",
-        "variantes": "Disquette PC-98 (origine), Réédition Windows, Émulation",
+        "variantes": "Édition Standard, Édition Collector, Édition Limitée signée",
         "plateforme": "PC-98",
         "langue": "Japonais (patch anglais dispo)"
       }
@@ -601,7 +601,7 @@
       ],
       "caracteristiques": {
         "genre": "Danmaku",
-        "variantes": "Disquette PC-98 (origine), Réédition Windows, Émulation",
+        "variantes": "Édition Standard, Édition Collector, Édition Limitée signée",
         "plateforme": "PC-98",
         "langue": "Japonais (patch anglais dispo)"
       }
@@ -622,7 +622,7 @@
       ],
       "caracteristiques": {
         "genre": "Danmaku",
-        "variantes": "Disquette PC-98 (origine), Réédition Windows, Émulation",
+        "variantes": "Édition Standard, Édition Collector, Édition Limitée signée",
         "plateforme": "PC-98",
         "langue": "Japonais (patch anglais dispo)"
       }
@@ -644,7 +644,7 @@
       ],
       "caracteristiques": {
         "genre": "Danmaku",
-        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "variantes": "Édition Standard, Édition Collector, Édition Limitée signée",
         "plateforme": "Windows",
         "langue": "Japonais (patch anglais dispo)"
       }
@@ -666,7 +666,7 @@
       ],
       "caracteristiques": {
         "genre": "Danmaku",
-        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "variantes": "Édition Standard, Édition Collector, Édition Limitée signée",
         "plateforme": "Windows",
         "langue": "Japonais (patch anglais dispo)"
       }
@@ -687,7 +687,7 @@
       ],
       "caracteristiques": {
         "genre": "Combat",
-        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "variantes": "Édition Standard, Édition Collector, Édition Limitée signée",
         "plateforme": "Windows",
         "langue": "Japonais (patch anglais dispo)"
       }
@@ -708,7 +708,7 @@
       ],
       "caracteristiques": {
         "genre": "Danmaku",
-        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "variantes": "Édition Standard, Édition Collector, Édition Limitée signée",
         "plateforme": "Windows",
         "langue": "Japonais (patch anglais dispo)"
       }
@@ -729,7 +729,7 @@
       ],
       "caracteristiques": {
         "genre": "Versus",
-        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "variantes": "Édition Standard, Édition Collector, Édition Limitée signée",
         "plateforme": "Windows",
         "langue": "Japonais (patch anglais dispo)"
       }
@@ -750,7 +750,7 @@
       ],
       "caracteristiques": {
         "genre": "Photographie",
-        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "variantes": "Édition Standard, Édition Collector, Édition Limitée signée",
         "plateforme": "Windows",
         "langue": "Japonais (patch anglais dispo)"
       }
@@ -771,7 +771,7 @@
       ],
       "caracteristiques": {
         "genre": "Danmaku",
-        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "variantes": "Édition Standard, Édition Collector, Édition Limitée signée",
         "plateforme": "Windows",
         "langue": "Japonais (patch anglais dispo)"
       }
@@ -792,7 +792,7 @@
       ],
       "caracteristiques": {
         "genre": "Combat",
-        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "variantes": "Édition Standard, Édition Collector, Édition Limitée signée",
         "plateforme": "Windows",
         "langue": "Japonais (patch anglais dispo)"
       }
@@ -813,7 +813,7 @@
       ],
       "caracteristiques": {
         "genre": "Danmaku",
-        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "variantes": "Édition Standard, Édition Collector, Édition Limitée signée",
         "plateforme": "Windows",
         "langue": "Japonais (patch anglais dispo)"
       }
@@ -834,7 +834,7 @@
       ],
       "caracteristiques": {
         "genre": "Danmaku",
-        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "variantes": "Édition Standard, Édition Collector, Édition Limitée signée",
         "plateforme": "Windows",
         "langue": "Japonais (patch anglais dispo)"
       }
@@ -855,7 +855,7 @@
       ],
       "caracteristiques": {
         "genre": "Combat",
-        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "variantes": "Édition Standard, Édition Collector, Édition Limitée signée",
         "plateforme": "Windows",
         "langue": "Japonais (patch anglais dispo)"
       }
@@ -876,7 +876,7 @@
       ],
       "caracteristiques": {
         "genre": "Photographie",
-        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "variantes": "Édition Standard, Édition Collector, Édition Limitée signée",
         "plateforme": "Windows",
         "langue": "Japonais (patch anglais dispo)"
       }
@@ -897,7 +897,7 @@
       ],
       "caracteristiques": {
         "genre": "Danmaku",
-        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "variantes": "Édition Standard, Édition Collector, Édition Limitée signée",
         "plateforme": "Windows",
         "langue": "Japonais (patch anglais dispo)"
       }
@@ -918,7 +918,7 @@
       ],
       "caracteristiques": {
         "genre": "Danmaku",
-        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "variantes": "Édition Standard, Édition Collector, Édition Limitée signée",
         "plateforme": "Windows",
         "langue": "Japonais (patch anglais dispo)"
       }
@@ -938,7 +938,7 @@
       ],
       "caracteristiques": {
         "genre": "Combat",
-        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "variantes": "Édition Standard, Édition Collector, Édition Limitée signée",
         "plateforme": "Windows",
         "langue": "Japonais (patch anglais dispo)"
       }
@@ -959,7 +959,7 @@
       ],
       "caracteristiques": {
         "genre": "Combat",
-        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "variantes": "Édition Standard, Édition Collector, Édition Limitée signée",
         "plateforme": "Windows",
         "langue": "Japonais (patch anglais dispo)"
       }
@@ -980,7 +980,7 @@
       ],
       "caracteristiques": {
         "genre": "Versus",
-        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "variantes": "Édition Standard, Édition Collector, Édition Limitée signée",
         "plateforme": "Windows",
         "langue": "Japonais (patch anglais dispo)"
       }
@@ -1001,7 +1001,7 @@
       ],
       "caracteristiques": {
         "genre": "Danmaku",
-        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "variantes": "Édition Standard, Édition Collector, Édition Limitée signée",
         "plateforme": "Windows",
         "langue": "Japonais (patch anglais dispo)"
       }
@@ -1022,7 +1022,7 @@
       ],
       "caracteristiques": {
         "genre": "Danmaku",
-        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "variantes": "Édition Standard, Édition Collector, Édition Limitée signée",
         "plateforme": "Windows",
         "langue": "Japonais (patch anglais dispo)"
       }
@@ -1043,7 +1043,7 @@
       ],
       "caracteristiques": {
         "genre": "Danmaku",
-        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "variantes": "Édition Standard, Édition Collector, Édition Limitée signée",
         "plateforme": "Windows",
         "langue": "Japonais (patch anglais dispo)"
       }
@@ -1064,7 +1064,7 @@
       ],
       "caracteristiques": {
         "genre": "Combat",
-        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "variantes": "Édition Standard, Édition Collector, Édition Limitée signée",
         "plateforme": "Windows",
         "langue": "Japonais (patch anglais dispo)"
       }
@@ -1085,7 +1085,7 @@
       ],
       "caracteristiques": {
         "genre": "Danmaku",
-        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "variantes": "Édition Standard, Édition Collector, Édition Limitée signée",
         "plateforme": "Windows",
         "langue": "Japonais (patch anglais dispo)"
       }
@@ -1106,7 +1106,7 @@
       ],
       "caracteristiques": {
         "genre": "Danmaku",
-        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "variantes": "Édition Standard, Édition Collector, Édition Limitée signée",
         "plateforme": "Windows",
         "langue": "Japonais (patch anglais dispo)"
       }
@@ -1127,7 +1127,7 @@
       ],
       "caracteristiques": {
         "genre": "Photographie",
-        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "variantes": "Édition Standard, Édition Collector, Édition Limitée signée",
         "plateforme": "Windows",
         "langue": "Japonais (patch anglais dispo)"
       }
@@ -1148,7 +1148,7 @@
       ],
       "caracteristiques": {
         "genre": "Danmaku",
-        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "variantes": "Édition Standard, Édition Collector, Édition Limitée signée",
         "plateforme": "Windows",
         "langue": "Japonais (patch anglais dispo)"
       }
@@ -1169,7 +1169,7 @@
       ],
       "caracteristiques": {
         "genre": "Combat",
-        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "variantes": "Édition Standard, Édition Collector, Édition Limitée signée",
         "plateforme": "Windows",
         "langue": "Japonais (patch anglais dispo)"
       }
@@ -1190,7 +1190,7 @@
       ],
       "caracteristiques": {
         "genre": "Danmaku",
-        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "variantes": "Édition Standard, Édition Collector, Édition Limitée signée",
         "plateforme": "Windows",
         "langue": "Japonais (patch anglais dispo)"
       }
@@ -1211,7 +1211,7 @@
       ],
       "caracteristiques": {
         "genre": "Danmaku",
-        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "variantes": "Édition Standard, Édition Collector, Édition Limitée signée",
         "plateforme": "Windows",
         "langue": "Japonais (patch anglais dispo)"
       }
@@ -1232,7 +1232,7 @@
       ],
       "caracteristiques": {
         "genre": "Action RPG",
-        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "variantes": "Édition Standard, Édition Collector, Édition Limitée signée",
         "plateforme": "Windows",
         "langue": "Japonais (patch anglais dispo)"
       }
@@ -1253,7 +1253,7 @@
       ],
       "caracteristiques": {
         "genre": "Danmaku",
-        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "variantes": "Édition Standard, Édition Collector, Édition Limitée signée",
         "plateforme": "Windows",
         "langue": "Japonais (patch anglais dispo)"
       }
@@ -1274,7 +1274,7 @@
       ],
       "caracteristiques": {
         "genre": "Roguelite",
-        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "variantes": "Édition Standard, Édition Collector, Édition Limitée signée",
         "plateforme": "Windows",
         "langue": "Japonais (patch anglais dispo)"
       }

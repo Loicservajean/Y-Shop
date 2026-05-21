@@ -1,5 +1,14 @@
 const urlAPI = 'http://localhost:3000'
 
+// Meme table que dans product.js
+const MULTIPLICATEURS = {
+  'Édition Standard':       1.0,
+  'Édition Collector':      1.5,
+  'Édition Limitée signée': 2.0,
+  'Bootleg':                0.5,
+  'Édition Anniversaire':   1.4
+}
+
 // Charger le panier
 function chargerPanier() {
   fetch(urlAPI + '/panier')
@@ -26,7 +35,8 @@ function afficherPanier(panier) {
       .then(response => response.json())
       .then(produit => {
 
-        total += produit.prix * item.quantite
+        const prixUnitaire = produit.prix * MULTIPLICATEURS[item.variante]
+        total += prixUnitaire * item.quantite
 
         div.innerHTML += `
           <div class="panier-item">
@@ -34,8 +44,9 @@ function afficherPanier(panier) {
             
             <div class="info">
               <h3>${produit.nom}</h3>
+              <p>Variante : ${item.variante}</p>
               <p>Quantité : ${item.quantite}</p>
-              <p>${(produit.prix * item.quantite).toFixed(2)} €</p>
+              <p>${(prixUnitaire * item.quantite).toFixed(2)} €</p>
             </div>
 
             <button onclick="supprimerDuPanier(${item.productId})">Supprimer</button>
