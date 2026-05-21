@@ -4,6 +4,7 @@ const params = new URLSearchParams(window.location.search)
 const productId = parseInt(params.get('id'))
 
 let imageActuelle = 0
+let imagesProduit = []
 
 function corrigerChemin(path) {
   return path
@@ -61,6 +62,9 @@ function genererCaracteristiques(produit) {
 function afficherProduit(produit) {
   const main = document.getElementById('product-container')
 
+  imagesProduit = produit.images
+  imageActuelle = 0
+
   const descCourte = produit.description && produit.description.length > 0
     ? produit.description.slice(0, 150) + "..."
     : "Aucune description disponible."
@@ -74,8 +78,8 @@ function afficherProduit(produit) {
         <img id="imgPrincipale" src="../Image/${imgFix}" alt="${produit.nom}">
 
         <div class="fleches">
-          <button onclick="imagePrec(${JSON.stringify(produit.images)})">◀</button>
-          <button onclick="imageSuiv(${JSON.stringify(produit.images)})">▶</button>
+          <button onclick="imagePrec()">◀</button>
+          <button onclick="imageSuiv()">▶</button>
         </div>
       </div>
 
@@ -100,15 +104,15 @@ function afficherProduit(produit) {
   `
 }
 
-function imageSuiv(images) {
-  imageActuelle = (imageActuelle + 1) % images.length
-  const imgFix = corrigerChemin(images[imageActuelle])
+function imageSuiv() {
+  imageActuelle = (imageActuelle + 1) % imagesProduit.length
+  const imgFix = corrigerChemin(imagesProduit[imageActuelle])
   document.getElementById('imgPrincipale').src = "../Image/" + imgFix
 }
 
-function imagePrec(images) {
-  imageActuelle = (imageActuelle - 1 + images.length) % images.length
-  const imgFix = corrigerChemin(images[imageActuelle])
+function imagePrec() {
+  imageActuelle = (imageActuelle - 1 + imagesProduit.length) % imagesProduit.length
+  const imgFix = corrigerChemin(imagesProduit[imageActuelle])
   document.getElementById('imgPrincipale').src = "../Image/" + imgFix
 }
 
