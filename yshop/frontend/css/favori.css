@@ -1,0 +1,132 @@
+@font-face {
+  font-family: 'NerdFont';
+  src: url('../font/SymbolsNerdFont-Regular.ttf') format('truetype');
+}
+
+.nf { font-family: 'NerdFont'; }
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-image: url('../Image/assets/BGindex.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #333;
+}
+
+/* HEADER */
+header {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  image-rendering: pixelated;
+}
+
+.logo {
+  width: 150px;
+}
+
+.upheader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #3299ffb1;
+  padding: 15px 30px;
+}
+
+.navigation {
+  display: flex;
+  justify-content: center;
+  background: #5effa1c8;
+  padding: 10px 30px;
+}
+
+header a {
+  color: white;
+  text-decoration: none;
+  margin-left: 20px;
+}
+
+/* PAGE FAVORIS */
+.page-favoris {
+  width: 90%;
+  max-width: 1100px;
+  margin: 40px auto;
+  background: #ffffffee;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.25);
+}
+
+.page-favoris h1 {
+  text-align: center;
+  margin-bottom: 25px;
+  color: #e74c3c;
+}
+
+/* LISTE FAVORIS */
+.favoris-container {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+/* Chaque item favori : <div><p>nom - prix €</p><button>Supprimer</button></div> */
+#favoris-liste > div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #ffffffdd;
+  padding: 18px 22px;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  gap: 20px;
+  transition: 0.2s;
+}
+
+#favoris-liste > div:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+
+#favoris-liste > div > p {
+  flex: 1;
+  font-size: 18px;
+  font-weight: 500;
+  color: #333;
+}
+
+#favoris-liste button {
+  padding: 10px 18px;
+  border: none;
+  background: #ff6b6b;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: bold;
+  transition: 0.2s;
+}
+
+#favoris-liste button:hover {
+  background: #e04848;
+}
+
+/* Message "Aucun favori" (p direct enfant de #favoris-liste) */
+#favoris-liste > p {
+  text-align: center;
+  font-style: italic;
+  color: #888;
+  padding: 40px 20px;
+  background: #ffffffdd;
+  border-radius: 10px;
+  font-size: 18px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}

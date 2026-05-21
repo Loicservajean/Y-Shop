@@ -36,6 +36,18 @@ function ajouterAuPanier(id) {
     .catch(error => console.error('Erreur : ', error))
 }
 
+function ajouterFavori(id) {
+  fetch(urlAPI + '/favoris', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({
+      productId: id
+    })
+  })
+    .then(() => alert('Produit ajouté aux favoris !'))
+    .catch(error => console.error('Erreur : ', error))
+}
+
 function afficherProduit(produit) {
   const main = document.getElementById('product-container')
 

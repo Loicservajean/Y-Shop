@@ -9,7 +9,9 @@
       "stock": 14,
       "type": "plush",
       "origine": "fan_made",
-      "images": ["Images/Alice-Margatroid-Plush.png"],
+      "images": [
+        "Images/Alice-Margatroid-Plush.png"
+      ],
       "caracteristiques": {
         "race": "Humaine"
       }
@@ -23,7 +25,9 @@
       "stock": 27,
       "type": "plush",
       "origine": "fan_made",
-      "images": ["Images/Cirno-Plush.png"],
+      "images": [
+        "Images/Cirno-Plush.png"
+      ],
       "caracteristiques": {
         "race": "Fée"
       }
@@ -37,7 +41,9 @@
       "stock": 8,
       "type": "plush",
       "origine": "fan_made",
-      "images": ["Images/Hinanawi-Tenshi-Plush.png"],
+      "images": [
+        "Images/Hinanawi-Tenshi-Plush.png"
+      ],
       "caracteristiques": {
         "race": "Celestial"
       }
@@ -51,7 +57,9 @@
       "stock": 22,
       "type": "plush",
       "origine": "fan_made",
-      "images": ["Images/Koishi-Komeiji-Plush.png"],
+      "images": [
+        "Images/Koishi-Komeiji-Plush.png"
+      ],
       "caracteristiques": {
         "race": "Satori"
       }
@@ -60,12 +68,14 @@
       "id": 5,
       "nom": "Marisa Kirisame Plush",
       "description": "Peluche fan-made de Marisa Kirisame, la magicienne humaine ordinaire de Gensokyo. Chapeau de sorcière, ruban et balai miniature inclus. Da~ze !",
-      "prix": 9.90,
+      "prix": 9.9,
       "devise": "EUR",
       "stock": 31,
       "type": "plush",
       "origine": "fan_made",
-      "images": ["Images/Marisa-Kirisame-Plush.png"],
+      "images": [
+        "Images/Marisa-Kirisame-Plush.png"
+      ],
       "caracteristiques": {
         "race": "Humaine"
       }
@@ -74,12 +84,14 @@
       "id": 6,
       "nom": "Patchouli Knowledge Plush",
       "description": "Peluche fan-made de Patchouli Knowledge, magicienne aux sept jours et bibliothécaire en chef du Manoir du Diable Écarlate. Robe violette détaillée et petit livre cousu.",
-      "prix": 8.50,
+      "prix": 8.5,
       "devise": "EUR",
       "stock": 11,
       "type": "plush",
       "origine": "fan_made",
-      "images": ["Images/Patchouli-Knowledge-Plush.png"],
+      "images": [
+        "Images/Patchouli-Knowledge-Plush.png"
+      ],
       "caracteristiques": {
         "race": "Humaine"
       }
@@ -88,12 +100,14 @@
       "id": 7,
       "nom": "Reimu Hakurei Plush",
       "description": "Peluche fan-made de Reimu Hakurei, la miko du sanctuaire Hakurei et héroïne de la série Touhou. Tenue rouge et blanche traditionnelle avec gros nœud caractéristique.",
-      "prix": 7.50,
+      "prix": 7.5,
       "devise": "EUR",
       "stock": 42,
       "type": "plush",
       "origine": "fan_made",
-      "images": ["Images/Reimu-Hakurei-Plush.png"],
+      "images": [
+        "Images/Reimu-Hakurei-Plush.png"
+      ],
       "caracteristiques": {
         "race": "Humaine"
       }
@@ -107,7 +121,9 @@
       "stock": 1,
       "type": "plush",
       "origine": "fan_made",
-      "images": ["Images/Reisen-Udongein-Inaba-Plush.png"],
+      "images": [
+        "Images/Reisen-Udongein-Inaba-Plush.png"
+      ],
       "caracteristiques": {
         "race": "Lapine Terrestre"
       }
@@ -116,12 +132,14 @@
       "id": 9,
       "nom": "Remilia Scarlet Plush",
       "description": "Peluche fan-made de Remilia Scarlet, la maîtresse vampire du Manoir du Diable Écarlate. Ailes de cuir synthétique, chapeau rose et lance Gungnir miniature incluse.",
-      "prix": 66.60,
+      "prix": 66.6,
       "devise": "EUR",
       "stock": 7,
       "type": "plush",
       "origine": "fan_made",
-      "images": ["Images/Remilia-Scarlet-Plush.png"],
+      "images": [
+        "Images/Remilia-Scarlet-Plush.png"
+      ],
       "caracteristiques": {
         "race": "Vampire"
       }
@@ -135,7 +153,9 @@
       "stock": 15,
       "type": "plush",
       "origine": "fan_made",
-      "images": ["Images/Renko-Usami-Plush.png"],
+      "images": [
+        "Images/Renko-Usami-Plush.png"
+      ],
       "caracteristiques": {
         "race": "Humaine"
       }
@@ -144,12 +164,14 @@
       "id": 11,
       "nom": "Sakuya Izayoi Plush",
       "description": "Peluche fan-made de Sakuya Izayoi, la maid en chef du Manoir du Diable Écarlate qui maîtrise le temps. Bonnet de maid, couteaux miniatures et montre à gousset détaillés.",
-      "prix": 52.00,
+      "prix": 52,
       "devise": "EUR",
       "stock": 6,
       "type": "plush",
       "origine": "fan_made",
-      "images": ["Images/Sakuya-Izayoi-Plush.png"],
+      "images": [
+        "Images/Sakuya-Izayoi-Plush.png"
+      ],
       "caracteristiques": {
         "race": "Humaine"
       }
@@ -163,7 +185,9 @@
       "stock": 4,
       "type": "plush",
       "origine": "fan_made",
-      "images": ["Images/Satori-Komeiji-Plush.png"],
+      "images": [
+        "Images/Satori-Komeiji-Plush.png"
+      ],
       "caracteristiques": {
         "race": "Satori"
       }
@@ -177,7 +201,9 @@
       "stock": 2,
       "type": "plush",
       "origine": "fan_made",
-      "images": ["Images/Shion-Yorigami-Plush.png"],
+      "images": [
+        "Images/Shion-Yorigami-Plush.png"
+      ],
       "caracteristiques": {
         "race": "Déesse"
       }
@@ -191,7 +217,9 @@
       "stock": 1,
       "type": "plush",
       "origine": "fan_made",
-      "images": ["Images/Tewi-Inaba-Plush.png"],
+      "images": [
+        "Images/Tewi-Inaba-Plush.png"
+      ],
       "caracteristiques": {
         "race": "Youkai Rabbit"
       }
@@ -205,7 +233,9 @@
       "stock": 19,
       "type": "plush",
       "origine": "fan_made",
-      "images": ["Images/Youmu-Konpaku-Plush.png"],
+      "images": [
+        "Images/Youmu-Konpaku-Plush.png"
+      ],
       "caracteristiques": {
         "race": "Humaine, Phantom"
       }
@@ -219,7 +249,9 @@
       "stock": 4,
       "type": "plush",
       "origine": "fan_made",
-      "images": ["Images/Yuyuko-Saigyouji-Plush.png"],
+      "images": [
+        "Images/Yuyuko-Saigyouji-Plush.png"
+      ],
       "caracteristiques": {
         "race": "Phantom"
       }
@@ -233,7 +265,9 @@
       "stock": 7,
       "type": "manga",
       "origine": "officiel",
-      "images": ["Mangas/WildandHornedHermit.png"]
+      "images": [
+        "Mangas/WildandHornedHermit.png"
+      ]
     },
     {
       "id": 18,
@@ -244,7 +278,9 @@
       "stock": 5,
       "type": "manga",
       "origine": "officiel",
-      "images": ["Mangas/SeasonalDreamVision.webp"]
+      "images": [
+        "Mangas/SeasonalDreamVision.webp"
+      ]
     },
     {
       "id": 19,
@@ -255,7 +291,9 @@
       "stock": 9,
       "type": "manga",
       "origine": "officiel",
-      "images": ["Mangas/Symposium of Post-Mysticism.jpg"]
+      "images": [
+        "Mangas/Symposium of Post-Mysticism.jpg"
+      ]
     },
     {
       "id": 20,
@@ -266,7 +304,9 @@
       "stock": 8,
       "type": "manga",
       "origine": "officiel",
-      "images": ["Mangas/Forbidden Scrollery Vol 1-7.webp"]
+      "images": [
+        "Mangas/Forbidden Scrollery Vol 1-7.webp"
+      ]
     },
     {
       "id": 21,
@@ -277,18 +317,22 @@
       "stock": 12,
       "type": "manga",
       "origine": "officiel",
-      "images": ["Mangas/StrangeandBrightNatureDeity.webp"]
+      "images": [
+        "Mangas/StrangeandBrightNatureDeity.webp"
+      ]
     },
     {
       "id": 22,
       "nom": "Touhou Sangestsusei - Oriental Sacred Place",
       "description": "We continue to track the misadventures of our favorite three mischievous fairies – Sunny Milk, Luna Child, and Star Sapphire. They have now taken up residence in a large tree near the Hakurei Shrine; what shenanigans can they get into from there?",
-      "prix": 17.50,
+      "prix": 17.5,
       "devise": "EUR",
       "stock": 13,
       "type": "manga",
       "origine": "officiel",
-      "images": ["Mangas/TouhouSangestsusei-OrientalSacredPlace.webp"]
+      "images": [
+        "Mangas/TouhouSangestsusei-OrientalSacredPlace.webp"
+      ]
     },
     {
       "id": 23,
@@ -299,7 +343,9 @@
       "stock": 6,
       "type": "manga",
       "origine": "officiel",
-      "images": ["Mangas/SilentSinnerinBlueVol1-3.webp"]
+      "images": [
+        "Mangas/SilentSinnerinBlueVol1-3.webp"
+      ]
     },
     {
       "id": 24,
@@ -310,29 +356,35 @@
       "stock": 10,
       "type": "manga",
       "origine": "officiel",
-      "images": ["Mangas/InabaoftheMoonandInabaoftheEarthVol 1-2.webp"]
+      "images": [
+        "Mangas/InabaoftheMoonandInabaoftheEarthVol 1-2.webp"
+      ]
     },
     {
       "id": 25,
       "nom": "Bohemian Archive in Japanese Red",
       "description": "Release Information\nPublisher: Ichijinsha\nWriter: Zun\nIllustrators: Kususaga Rin, Alphes & Tobi\nDate of Release: August 11, 2005\nComiket 69\nType: Illustrated Official Fan Book\n\nSynopsis: Bohemian Archive in Japanese Red, lit. \"Eastern Album of Words and Flowers\", is the first official fanbook of the Touhou series. It is written by ZUN and drawn by Kususaga Rin and others. It features Aya Shameimaru writing a newspaper about the Touhou world, with some comics and newspaper articles. It also comes with a music CD featuring tracks from Phantasmagoria of Flower View.",
-      "prix": 45.00,
+      "prix": 45,
       "devise": "EUR",
       "stock": 4,
       "type": "manga",
       "origine": "officiel",
-      "images": ["Mangas/BohemianArchiveinJapaneseRed.webp"]
+      "images": [
+        "Mangas/BohemianArchiveinJapaneseRed.webp"
+      ]
     },
     {
       "id": 26,
       "nom": "Curiosities of Lotus Asia",
       "description": "Synopsis: Curiosities of Lotus Asia est une série de nouvelles courtes écrites par ZUN, centrées sur Rinnosuke Morichika, propriétaire du Kourindou, une boutique située à la frontière du Village Humain et de la Forêt de la Magie. Chaque chapitre présente un objet venu du monde extérieur que Rinnosuke tente d'identifier et de comprendre... avec un succès très variable. Error 404 : objet non trouvé.",
-      "prix": 40.40,
+      "prix": 40.4,
       "devise": "EUR",
       "stock": 8,
       "type": "manga",
       "origine": "officiel",
-      "images": ["Mangas/CuriositiesofLotusAsia.webp"]
+      "images": [
+        "Mangas/CuriositiesofLotusAsia.webp"
+      ]
     },
     {
       "id": 27,
@@ -343,7 +395,11 @@
       "stock": 3,
       "type": "jeu",
       "origine": "officiel",
-      "images": ["Jeux/1.1.jpg", "Jeux/1.2.jpg", "Jeux/1.3.jpg"],
+      "images": [
+        "Jeux/1.1.jpg",
+        "Jeux/1.2.jpg",
+        "Jeux/1.3.jpg"
+      ],
       "caracteristiques": {
         "genre": "Danmaku"
       }
@@ -357,7 +413,11 @@
       "stock": 5,
       "type": "jeu",
       "origine": "officiel",
-      "images": ["Jeux/2.1.jpg", "Jeux/2.2.jpg", "Jeux/2.3.jpg"],
+      "images": [
+        "Jeux/2.1.jpg",
+        "Jeux/2.2.jpg",
+        "Jeux/2.3.jpg"
+      ],
       "caracteristiques": {
         "genre": "Danmaku"
       }
@@ -371,7 +431,11 @@
       "stock": 28,
       "type": "jeu",
       "origine": "officiel",
-      "images": ["Jeux/3.1.jpg", "Jeux/3.2.jpg", "Jeux/3.3.jpg"],
+      "images": [
+        "Jeux/3.1.jpg",
+        "Jeux/3.2.jpg",
+        "Jeux/3.3.jpg"
+      ],
       "caracteristiques": {
         "genre": "Versus"
       }
@@ -385,7 +449,11 @@
       "stock": 22,
       "type": "jeu",
       "origine": "officiel",
-      "images": ["Jeux/4.1.jpg", "Jeux/4.2.jpg", "Jeux/4.3.jpg"],
+      "images": [
+        "Jeux/4.1.jpg",
+        "Jeux/4.2.jpg",
+        "Jeux/4.3.jpg"
+      ],
       "caracteristiques": {
         "genre": "Danmaku"
       }
@@ -399,7 +467,11 @@
       "stock": 16,
       "type": "jeu",
       "origine": "officiel",
-      "images": ["Jeux/5.1.jpg", "Jeux/5.2.jpg", "Jeux/5.3.jpg"],
+      "images": [
+        "Jeux/5.1.jpg",
+        "Jeux/5.2.jpg",
+        "Jeux/5.3.jpg"
+      ],
       "caracteristiques": {
         "genre": "Danmaku"
       }
@@ -413,7 +485,9 @@
       "stock": 33,
       "type": "jeu",
       "origine": "officiel",
-      "images": ["Jeux/6.webp"],
+      "images": [
+        "Jeux/6.webp"
+      ],
       "caracteristiques": {
         "genre": "Danmaku"
       }
@@ -427,7 +501,9 @@
       "stock": 38,
       "type": "jeu",
       "origine": "officiel",
-      "images": ["Jeux/7.webp"],
+      "images": [
+        "Jeux/7.webp"
+      ],
       "caracteristiques": {
         "genre": "Danmaku"
       }
@@ -441,7 +517,11 @@
       "stock": 14,
       "type": "jeu",
       "origine": "officiel",
-      "images": ["Jeux/7.5.1.jpg", "Jeux/7.5.2.jpg", "Jeux/7.5.3.jpg"],
+      "images": [
+        "Jeux/7.5.1.jpg",
+        "Jeux/7.5.2.jpg",
+        "Jeux/7.5.3.jpg"
+      ],
       "caracteristiques": {
         "genre": "Combat"
       }
@@ -450,12 +530,16 @@
       "id": 35,
       "nom": "Touhou 8: Eiyashou - Imperishable Night",
       "description": "Synopsis: La nuit refuse de prendre fin à Gensokyo. Le système unique de duos (humain + youkai) permet 8 personnages jouables. Enquêtez sur la fausse lune avec Reimu/Yukari, Marisa/Alice, Sakuya/Remilia ou Youmu/Yuyuko. Sorti en 2004.",
-      "prix": 20.00,
+      "prix": 20,
       "devise": "EUR",
       "stock": 41,
       "type": "jeu",
       "origine": "officiel",
-      "images": ["Jeux/8.1.jpg", "Jeux/8.2.jpg", "Jeux/8.3.jpg"],
+      "images": [
+        "Jeux/8.1.jpg",
+        "Jeux/8.2.jpg",
+        "Jeux/8.3.jpg"
+      ],
       "caracteristiques": {
         "genre": "Danmaku"
       }
@@ -464,12 +548,16 @@
       "id": 36,
       "nom": "Touhou 9: Kaeizuka - Phantasmagoria of Flower View",
       "description": "Synopsis: Des fleurs hors saison apparaissent partout à Gensokyo. Jeu versus à la manière du 3, opposant deux joueurs sur écrans côte à côte. 16 personnages jouables au total. Sorti en 2005.",
-      "prix": 36.00,
+      "prix": 36,
       "devise": "EUR",
       "stock": 19,
       "type": "jeu",
       "origine": "officiel",
-      "images": ["Jeux/9.1.jpg", "Jeux/9.2.jpg", "Jeux/9.3.jpg"],
+      "images": [
+        "Jeux/9.1.jpg",
+        "Jeux/9.2.jpg",
+        "Jeux/9.3.jpg"
+      ],
       "caracteristiques": {
         "genre": "Versus"
       }
@@ -478,12 +566,16 @@
       "id": 37,
       "nom": "Touhou 9.5: Bunkachou - Shoot the Bullet",
       "description": "Synopsis: Premier spin-off photographique. Incarnez la reporter tengu Aya Shameimaru et photographiez les spell cards des youkai pour son article du Bunbunmaru Journal. Pas de tir, juste un appareil photo. Sorti en 2005.",
-      "prix": 9.50,
+      "prix": 9.5,
       "devise": "EUR",
       "stock": 25,
       "type": "jeu",
       "origine": "officiel",
-      "images": ["Jeux/9.5.1.jpg", "Jeux/9.5.2.jpg", "Jeux/9.5.3.jpg"],
+      "images": [
+        "Jeux/9.5.1.jpg",
+        "Jeux/9.5.2.jpg",
+        "Jeux/9.5.3.jpg"
+      ],
       "caracteristiques": {
         "genre": "Photographie"
       }
@@ -497,7 +589,11 @@
       "stock": 36,
       "type": "jeu",
       "origine": "officiel",
-      "images": ["Jeux/10.1.jpg", "Jeux/10.2.jpg", "Jeux/10.3.jpg"],
+      "images": [
+        "Jeux/10.1.jpg",
+        "Jeux/10.2.jpg",
+        "Jeux/10.3.jpg"
+      ],
       "caracteristiques": {
         "genre": "Danmaku"
       }
@@ -506,12 +602,16 @@
       "id": 39,
       "nom": "Touhou 10.5: Hisouten - Scarlet Weather Rhapsody",
       "description": "Synopsis: Suite directe d'Immaterial and Missing Power. Des phénomènes météorologiques étranges secouent Gensokyo. Système de combat enrichi avec un deck de cartes personnalisable. Co-développé avec Tasogare Frontier. Sorti en 2008.",
-      "prix": 25.50,
+      "prix": 25.5,
       "devise": "EUR",
       "stock": 14,
       "type": "jeu",
       "origine": "officiel",
-      "images": ["Jeux/10.5.1.jpg", "Jeux/10.5.2.png", "Jeux/10.5.3.jpg"],
+      "images": [
+        "Jeux/10.5.1.jpg",
+        "Jeux/10.5.2.png",
+        "Jeux/10.5.3.jpg"
+      ],
       "caracteristiques": {
         "genre": "Combat"
       }
@@ -525,7 +625,11 @@
       "stock": 11,
       "type": "jeu",
       "origine": "officiel",
-      "images": ["Jeux/11.1.jpg", "Jeux/11.2.jpg", "Jeux/11.3.jpg"],
+      "images": [
+        "Jeux/11.1.jpg",
+        "Jeux/11.2.jpg",
+        "Jeux/11.3.jpg"
+      ],
       "caracteristiques": {
         "genre": "Danmaku"
       }
@@ -539,7 +643,11 @@
       "stock": 17,
       "type": "jeu",
       "origine": "officiel",
-      "images": ["Jeux/12.1.jpg", "Jeux/12.2.jpg", "Jeux/12.3.png"],
+      "images": [
+        "Jeux/12.1.jpg",
+        "Jeux/12.2.jpg",
+        "Jeux/12.3.png"
+      ],
       "caracteristiques": {
         "genre": "Danmaku"
       }
@@ -553,7 +661,11 @@
       "stock": 21,
       "type": "jeu",
       "origine": "officiel",
-      "images": ["Jeux/12.3.1.jpg", "Jeux/12.3.2.jpg", "Jeux/12.3.3.jpg"],
+      "images": [
+        "Jeux/12.3.1.jpg",
+        "Jeux/12.3.2.jpg",
+        "Jeux/12.3.3.jpg"
+      ],
       "caracteristiques": {
         "genre": "Combat"
       }
@@ -562,12 +674,16 @@
       "id": 43,
       "nom": "Touhou 12.5: Bunkachou - Double Spoiler",
       "description": "Synopsis: Suite de Shoot the Bullet. Aya et Hatate (nouvelle reporter tengu) photographient les spell cards des personnages introduits depuis Mountain of Faith. Système de scoop journalistique. Sorti en 2010.",
-      "prix": 14.50,
+      "prix": 14.5,
       "devise": "EUR",
       "stock": 13,
       "type": "jeu",
       "origine": "officiel",
-      "images": ["Jeux/12.5.1.jpg", "Jeux/12.5.2.jpg", "Jeux/12.5.3.jpg"],
+      "images": [
+        "Jeux/12.5.1.jpg",
+        "Jeux/12.5.2.jpg",
+        "Jeux/12.5.3.jpg"
+      ],
       "caracteristiques": {
         "genre": "Photographie"
       }
@@ -581,7 +697,11 @@
       "stock": 22,
       "type": "jeu",
       "origine": "officiel",
-      "images": ["Jeux/12.8.1.jpg", "Jeux/12.8.2.png", "Jeux/12.8.3.jpg"],
+      "images": [
+        "Jeux/12.8.1.jpg",
+        "Jeux/12.8.2.png",
+        "Jeux/12.8.3.jpg"
+      ],
       "caracteristiques": {
         "genre": "Danmaku"
       }
@@ -595,7 +715,11 @@
       "stock": 9,
       "type": "jeu",
       "origine": "officiel",
-      "images": ["Jeux/13.1.png", "Jeux/13.2.png", "Jeux/13.3.jpg"],
+      "images": [
+        "Jeux/13.1.png",
+        "Jeux/13.2.png",
+        "Jeux/13.3.jpg"
+      ],
       "caracteristiques": {
         "genre": "Danmaku"
       }
@@ -609,7 +733,10 @@
       "stock": 7,
       "type": "jeu",
       "origine": "officiel",
-      "images": ["Jeux/13.5.1.jpg", "Jeux/13.5.2.jpg"],
+      "images": [
+        "Jeux/13.5.1.jpg",
+        "Jeux/13.5.2.jpg"
+      ],
       "caracteristiques": {
         "genre": "Combat"
       }
@@ -623,7 +750,11 @@
       "stock": 11,
       "type": "jeu",
       "origine": "officiel",
-      "images": ["Jeux/15.5.1.jpg", "Jeux/15.5.2.png", "Jeux/15.5.3.png"],
+      "images": [
+        "Jeux/15.5.1.jpg",
+        "Jeux/15.5.2.png",
+        "Jeux/15.5.3.png"
+      ],
       "caracteristiques": {
         "genre": "Combat"
       }
@@ -637,7 +768,11 @@
       "stock": 30,
       "type": "jeu",
       "origine": "officiel",
-      "images": ["Jeux/19.1.jpg", "Jeux/19.2.jpg", "Jeux/19.3.jpg"],
+      "images": [
+        "Jeux/19.1.jpg",
+        "Jeux/19.2.jpg",
+        "Jeux/19.3.jpg"
+      ],
       "caracteristiques": {
         "genre": "Versus"
       }
@@ -646,12 +781,16 @@
       "id": 49,
       "nom": "Touhou 20: Kinjoukyou - Fossilized Wonders",
       "description": "Synopsis: Le tout dernier jeu principal de la série Touhou ! Reimu, Marisa, Sanae et Hisami Yomotsu enquêtent sur d'étranges fossiles vivants apparaissant à Gensokyo. Nouveau système de gemmes de cristal. Sorti en 2024.",
-      "prix": 17.50,
+      "prix": 17.5,
       "devise": "EUR",
       "stock": 24,
       "type": "jeu",
       "origine": "officiel",
-      "images": ["Jeux/20.1.jpg", "Jeux/20.2.jpg", "Jeux/20.3.jpg"],
+      "images": [
+        "Jeux/20.1.jpg",
+        "Jeux/20.2.jpg",
+        "Jeux/20.3.jpg"
+      ],
       "caracteristiques": {
         "genre": "Danmaku"
       }
@@ -660,12 +799,16 @@
       "id": 50,
       "nom": "Touhou 14: Kishinjou - Double Dealing Character",
       "description": "Synopsis: Les outils prennent vie et se rebellent dans Gensokyo. Reimu, Marisa et Sakuya (de retour comme jouable) doivent enquêter sur Shinmyoumaru Sukuna, la princesse miniature qui possède le mystérieux Maillet Miraculeux. Sorti en 2013.",
-      "prix": 22.40,
+      "prix": 22.4,
       "devise": "EUR",
       "stock": 18,
       "type": "jeu",
       "origine": "officiel",
-      "images": ["Jeux/14.1.jpg", "Jeux/14.2.jpg", "Jeux/14.3.png"],
+      "images": [
+        "Jeux/14.1.jpg",
+        "Jeux/14.2.jpg",
+        "Jeux/14.3.png"
+      ],
       "caracteristiques": {
         "genre": "Danmaku"
       }
@@ -679,7 +822,11 @@
       "stock": 26,
       "type": "jeu",
       "origine": "officiel",
-      "images": ["Jeux/14.3.1.jpg", "Jeux/14.3.2.jpg", "Jeux/14.3.3.jpg"],
+      "images": [
+        "Jeux/14.3.1.jpg",
+        "Jeux/14.3.2.jpg",
+        "Jeux/14.3.3.jpg"
+      ],
       "caracteristiques": {
         "genre": "Danmaku"
       }
@@ -688,12 +835,16 @@
       "id": 52,
       "nom": "Touhou 14.5: Shinpiroku - Urban Legend in Limbo",
       "description": "Synopsis: Jeu de combat exploitant les légendes urbaines. Les personnages peuvent maintenant utiliser des \"occult balls\" pour déclencher des effets liés aux légendes urbaines du monde extérieur. Co-développé avec Tasogare Frontier. Sorti en 2015.",
-      "prix": 25.00,
+      "prix": 25,
       "devise": "EUR",
       "stock": 10,
       "type": "jeu",
       "origine": "officiel",
-      "images": ["Jeux/14.5.1.jpg", "Jeux/14.5.2.jpg", "Jeux/14.5.3.jpg"],
+      "images": [
+        "Jeux/14.5.1.jpg",
+        "Jeux/14.5.2.jpg",
+        "Jeux/14.5.3.jpg"
+      ],
       "caracteristiques": {
         "genre": "Combat"
       }
@@ -707,7 +858,11 @@
       "stock": 15,
       "type": "jeu",
       "origine": "officiel",
-      "images": ["Jeux/15.1.jpg", "Jeux/15.2.jpg", "Jeux/15.3.png"],
+      "images": [
+        "Jeux/15.1.jpg",
+        "Jeux/15.2.jpg",
+        "Jeux/15.3.png"
+      ],
       "caracteristiques": {
         "genre": "Danmaku"
       }
@@ -721,7 +876,11 @@
       "stock": 23,
       "type": "jeu",
       "origine": "officiel",
-      "images": ["Jeux/16.1.jpg", "Jeux/16.2.jpg", "Jeux/16.3.jpg"],
+      "images": [
+        "Jeux/16.1.jpg",
+        "Jeux/16.2.jpg",
+        "Jeux/16.3.jpg"
+      ],
       "caracteristiques": {
         "genre": "Danmaku"
       }
@@ -735,7 +894,11 @@
       "stock": 16,
       "type": "jeu",
       "origine": "officiel",
-      "images": ["Jeux/16.5.1.jpg", "Jeux/16.5.2.jpg", "Jeux/16.5.3.jpg"],
+      "images": [
+        "Jeux/16.5.1.jpg",
+        "Jeux/16.5.2.jpg",
+        "Jeux/16.5.3.jpg"
+      ],
       "caracteristiques": {
         "genre": "Photographie"
       }
@@ -749,7 +912,11 @@
       "stock": 20,
       "type": "jeu",
       "origine": "officiel",
-      "images": ["Jeux/17.1.jpg", "Jeux/17.2.jpg", "Jeux/17.3.jpg"],
+      "images": [
+        "Jeux/17.1.jpg",
+        "Jeux/17.2.jpg",
+        "Jeux/17.3.jpg"
+      ],
       "caracteristiques": {
         "genre": "Danmaku"
       }
@@ -763,7 +930,11 @@
       "stock": 8,
       "type": "jeu",
       "origine": "officiel",
-      "images": ["Jeux/17.5.1.png", "Jeux/17.5.2.png", "Jeux/17.5.3.png"],
+      "images": [
+        "Jeux/17.5.1.png",
+        "Jeux/17.5.2.png",
+        "Jeux/17.5.3.png"
+      ],
       "caracteristiques": {
         "genre": "Combat"
       }
@@ -777,7 +948,11 @@
       "stock": 27,
       "type": "jeu",
       "origine": "officiel",
-      "images": ["Jeux/18.1.jpg", "Jeux/18.2.jpg", "Jeux/18.3.jpg"],
+      "images": [
+        "Jeux/18.1.jpg",
+        "Jeux/18.2.jpg",
+        "Jeux/18.3.jpg"
+      ],
       "caracteristiques": {
         "genre": "Danmaku"
       }
@@ -791,7 +966,9 @@
       "stock": 32,
       "type": "jeu",
       "origine": "officiel",
-      "images": ["Jeux/18.5.1.webp"],
+      "images": [
+        "Jeux/18.5.1.webp"
+      ],
       "caracteristiques": {
         "genre": "Danmaku"
       }
@@ -805,7 +982,11 @@
       "stock": 35,
       "type": "jeu",
       "origine": "fan_made",
-      "images": ["Jeux/scarlet-curiosity-1.webp", "Jeux/scarlet-curiosity-2.webp", "Jeux/scarlet-curiosity-3.webp"],
+      "images": [
+        "Jeux/scarlet-curiosity-1.webp",
+        "Jeux/scarlet-curiosity-2.webp",
+        "Jeux/scarlet-curiosity-3.webp"
+      ],
       "caracteristiques": {
         "genre": "Action RPG"
       }
@@ -819,7 +1000,11 @@
       "stock": 40,
       "type": "jeu",
       "origine": "fan_made",
-      "images": ["Jeux/natsu-yasai-1.webp", "Jeux/natsu-yasai-2.webp", "Jeux/natsu-yasai-3.webp"],
+      "images": [
+        "Jeux/natsu-yasai-1.webp",
+        "Jeux/natsu-yasai-2.webp",
+        "Jeux/natsu-yasai-3.webp"
+      ],
       "caracteristiques": {
         "genre": "Danmaku"
       }
@@ -833,7 +1018,11 @@
       "stock": 50,
       "type": "jeu",
       "origine": "fan_made",
-      "images": ["Jeux/gensokyo-survivors-1.webp", "Jeux/gensokyo-survivors-2.webp", "Jeux/gensokyo-survivors-3.webp"],
+      "images": [
+        "Jeux/gensokyo-survivors-1.webp",
+        "Jeux/gensokyo-survivors-2.webp",
+        "Jeux/gensokyo-survivors-3.webp"
+      ],
       "caracteristiques": {
         "genre": "Roguelite"
       }
