@@ -3,20 +3,29 @@
 <head>
   <meta charset="UTF-8">
   <title>Touhou - Favoris</title>
-  <link rel="stylesheet" href="../css/style.css">
+  <link rel="stylesheet" href="../css/favori.css">
 </head>
 <body>
 
   <header>
-    <h1><a href="/">Touhou</a></h1>
-    <nav>
-      <a href="/panier">🛒 Panier</a>
-    </nav>
+    <div class="upheader">
+      <img class="logo" src="../Image/assets/logo.png" alt="Logo Touhou">
+    </div>
+    <div class="navigation">
+      <nav class="nav-main">
+        <a href="/"><span class="nf"></span> Accueil</a>
+        <a href="/panier"><span class="nf">󱗫</span> Panier</a>
+        <a href="/favoris"><span class="nf"></span> Favoris</a>
+      </nav>
+    </div>
   </header>
 
-  <main>
-    <h2>Mes Favoris</h2>
-    <div id="favoris-liste"></div>
+  <main class="page-favoris">
+    <h1>Mes Favoris</h1>
+
+    <section id="favoris-liste" class="favoris-container">
+      <!-- Items injectés par favorites.js -->
+    </section>
   </main>
 
   <script src="../js/favorites.js"></script>
