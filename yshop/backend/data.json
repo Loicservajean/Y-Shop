@@ -6,11 +6,11 @@
       "description": "Adorable peluche fan-made représentant Alice Margatroid, la magicienne manipulatrice de poupées du Manoir du Diable Écarlate. Tissu doux, environ 30cm de haut, coiffe et ruban brodés avec précision.",
       "prix": 6.99,
       "devise": "EUR",
-      "stock": 14,
+      "stock": -986,
       "type": "plush",
       "origine": "fan_made",
       "images": [
-        "Images/Alice-Margatroid-Plush.png"
+        "FUMO/Alice-Margatroid-Plush.png"
       ],
       "caracteristiques": {
         "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
@@ -28,7 +28,7 @@
       "type": "plush",
       "origine": "fan_made",
       "images": [
-        "Images/Cirno-Plush.png"
+        "FUMO/Cirno-Plush.png"
       ],
       "caracteristiques": {
         "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
@@ -46,7 +46,7 @@
       "type": "plush",
       "origine": "fan_made",
       "images": [
-        "Images/Hinanawi-Tenshi-Plush.png"
+        "FUMO/Hinanawi-Tenshi-Plush.png"
       ],
       "caracteristiques": {
         "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
@@ -64,7 +64,7 @@
       "type": "plush",
       "origine": "fan_made",
       "images": [
-        "Images/Koishi-Komeiji-Plush.png"
+        "FUMO/Koishi-Komeiji-Plush.png"
       ],
       "caracteristiques": {
         "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
@@ -82,7 +82,7 @@
       "type": "plush",
       "origine": "fan_made",
       "images": [
-        "Images/Marisa-Kirisame-Plush.png"
+        "FUMO/Marisa-Kirisame-Plush.png"
       ],
       "caracteristiques": {
         "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
@@ -100,7 +100,7 @@
       "type": "plush",
       "origine": "fan_made",
       "images": [
-        "Images/Patchouli-Knowledge-Plush.png"
+        "FUMO/Patchouli-Knowledge-Plush.png"
       ],
       "caracteristiques": {
         "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
@@ -118,7 +118,7 @@
       "type": "plush",
       "origine": "fan_made",
       "images": [
-        "Images/Reimu-Hakurei-Plush.png"
+        "FUMO/Reimu-Hakurei-Plush.png"
       ],
       "caracteristiques": {
         "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
@@ -136,7 +136,7 @@
       "type": "plush",
       "origine": "fan_made",
       "images": [
-        "Images/Reisen-Udongein-Inaba-Plush.png"
+        "FUMO/Reisen-Udongein-Inaba-Plush.png"
       ],
       "caracteristiques": {
         "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
@@ -154,7 +154,7 @@
       "type": "plush",
       "origine": "fan_made",
       "images": [
-        "Images/Remilia-Scarlet-Plush.png"
+        "FUMO/Remilia-Scarlet-Plush.png"
       ],
       "caracteristiques": {
         "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
@@ -172,7 +172,7 @@
       "type": "plush",
       "origine": "fan_made",
       "images": [
-        "Images/Renko-Usami-Plush.png"
+        "FUMO/Renko-Usami-Plush.png"
       ],
       "caracteristiques": {
         "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
@@ -190,7 +190,7 @@
       "type": "plush",
       "origine": "fan_made",
       "images": [
-        "Images/Sakuya-Izayoi-Plush.png"
+        "FUMO/Sakuya-Izayoi-Plush.png"
       ],
       "caracteristiques": {
         "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
@@ -208,7 +208,7 @@
       "type": "plush",
       "origine": "fan_made",
       "images": [
-        "Images/Satori-Komeiji-Plush.png"
+        "FUMO/Satori-Komeiji-Plush.png"
       ],
       "caracteristiques": {
         "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
@@ -226,7 +226,7 @@
       "type": "plush",
       "origine": "fan_made",
       "images": [
-        "Images/Shion-Yorigami-Plush.png"
+        "FUMO/Shion-Yorigami-Plush.png"
       ],
       "caracteristiques": {
         "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
@@ -244,7 +244,7 @@
       "type": "plush",
       "origine": "fan_made",
       "images": [
-        "Images/Tewi-Inaba-Plush.png"
+        "FUMO/Tewi-Inaba-Plush.png"
       ],
       "caracteristiques": {
         "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
@@ -262,7 +262,7 @@
       "type": "plush",
       "origine": "fan_made",
       "images": [
-        "Images/Youmu-Konpaku-Plush.png"
+        "FUMO/Youmu-Konpaku-Plush.png"
       ],
       "caracteristiques": {
         "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
@@ -280,7 +280,7 @@
       "type": "plush",
       "origine": "fan_made",
       "images": [
-        "Images/Yuyuko-Saigyouji-Plush.png"
+        "FUMO/Yuyuko-Saigyouji-Plush.png"
       ],
       "caracteristiques": {
         "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
@@ -298,7 +298,9 @@
       "type": "manga",
       "origine": "officiel",
       "images": [
-        "Mangas/WildandHornedHermit.png"
+        "Manga/WildandHornedHermit.webp",
+        "Manga/WildandHorned2.webp",
+        "Manga/WildandHorned3.webp"
       ],
       "caracteristiques": {
         "type_manga": "Manga officiel",
@@ -317,7 +319,7 @@
       "type": "manga",
       "origine": "officiel",
       "images": [
-        "Mangas/SeasonalDreamVision.webp"
+        "Manga/SeasonalDreamVision.webp"
       ],
       "caracteristiques": {
         "type_manga": "Fanbook officiel",
@@ -336,7 +338,9 @@
       "type": "manga",
       "origine": "officiel",
       "images": [
-        "Mangas/Symposium of Post-Mysticism.jpg"
+        "Manga/Symposium of Post-Mysticism.jpg",
+        "Manga/Symposium of Post-Mysticism2.png",
+        "Manga/Symposium of Post-Mysticism3.png"
       ],
       "caracteristiques": {
         "type_manga": "Manga officiel",
@@ -355,7 +359,7 @@
       "type": "manga",
       "origine": "officiel",
       "images": [
-        "Mangas/Forbidden Scrollery Vol 1-7.webp"
+        "Manga/Forbidden Scrollery Vol 1-7.webp"
       ],
       "caracteristiques": {
         "type_manga": "Manga officiel",
@@ -374,7 +378,9 @@
       "type": "manga",
       "origine": "officiel",
       "images": [
-        "Mangas/StrangeandBrightNatureDeity.webp"
+        "Manga/StrangeandBrightNatureDeity.webp",
+        "Manga/strange_and_bright_ch2.jpg",
+        "Manga/strange_and_bright_ch3.jpg"
       ],
       "caracteristiques": {
         "type_manga": "Manga officiel",
@@ -393,7 +399,9 @@
       "type": "manga",
       "origine": "officiel",
       "images": [
-        "Mangas/TouhouSangestsusei-OrientalSacredPlace.webp"
+        "Manga/TouhouSangestsusei-OrientalSacredPlace.webp",
+        "Manga/oriental_sacred_place2.jpg",
+        "Manga/oriental_sacred_place3.png"
       ],
       "caracteristiques": {
         "type_manga": "Manga officiel",
@@ -412,7 +420,9 @@
       "type": "manga",
       "origine": "officiel",
       "images": [
-        "Mangas/SilentSinnerinBlueVol1-3.webp"
+        "Manga/SilentSinnerinBlueVol1-3.webp",
+        "Manga/Silent Sinner in Blue Vol2.webp",
+        "Manga/Silent Sinner in Blue Vol3.webp"
       ],
       "caracteristiques": {
         "type_manga": "Manga officiel",
@@ -431,7 +441,9 @@
       "type": "manga",
       "origine": "officiel",
       "images": [
-        "Mangas/InabaoftheMoonandInabaoftheEarthVol 1-2.webp"
+        "Manga/InabaoftheMoonandInabaoftheEarthVol 1-2.webp",
+        "Manga/inaba_of_the_moon_and_inaba_of_the_earthch2.jpg",
+        "Manga/inaba_of_the_moon_and_inaba_of_the_earth3.jpg"
       ],
       "caracteristiques": {
         "type_manga": "Manga officiel",
@@ -450,7 +462,9 @@
       "type": "manga",
       "origine": "officiel",
       "images": [
-        "Mangas/BohemianArchiveinJapaneseRed.webp"
+        "Manga/BohemianArchiveinJapaneseRed.webp",
+        "Manga/eastern_azalea_in_may_01.jpg",
+        "Manga/eastern_azalea_in_may_02.jpg"
       ],
       "caracteristiques": {
         "type_manga": "Fanbook officiel",
@@ -469,7 +483,7 @@
       "type": "manga",
       "origine": "officiel",
       "images": [
-        "Mangas/CuriositiesofLotusAsia.webp"
+        "Manga/CuriositiesofLotusAsia.webp"
       ],
       "caracteristiques": {
         "type_manga": "Manga officiel",

@@ -6,12 +6,6 @@ const productId = parseInt(params.get('id'))
 let imageActuelle = 0
 let imagesProduit = []
 
-function corrigerChemin(path) {
-  return path
-    .replace('Images/', 'FUMO/')
-    .replace('Mangas/', 'Manga/');
-}
-
 function chargerProduit() {
   fetch(urlAPI + '/products/' + productId)
     .then(r => r.json())
@@ -69,13 +63,13 @@ function afficherProduit(produit) {
     ? produit.description.slice(0, 150) + "..."
     : "Aucune description disponible."
 
-  const imgFix = corrigerChemin(produit.images[0])
+  const imgPrincipale = produit.images[0]
 
   main.innerHTML = `
     <div class="product-box">
 
       <div class="carrousel">
-        <img id="imgPrincipale" src="../Image/${imgFix}" alt="${produit.nom}">
+        <img id="imgPrincipale" src="../Image/${imgPrincipale}" alt="${produit.nom}">
 
         <div class="fleches">
           <button onclick="imagePrec()">◀</button>
@@ -106,14 +100,12 @@ function afficherProduit(produit) {
 
 function imageSuiv() {
   imageActuelle = (imageActuelle + 1) % imagesProduit.length
-  const imgFix = corrigerChemin(imagesProduit[imageActuelle])
-  document.getElementById('imgPrincipale').src = "../Image/" + imgFix
+  document.getElementById('imgPrincipale').src = "../Image/" + imagesProduit[imageActuelle]
 }
 
 function imagePrec() {
   imageActuelle = (imageActuelle - 1 + imagesProduit.length) % imagesProduit.length
-  const imgFix = corrigerChemin(imagesProduit[imageActuelle])
-  document.getElementById('imgPrincipale').src = "../Image/" + imgFix
+  document.getElementById('imgPrincipale').src = "../Image/" + imagesProduit[imageActuelle]
 }
 
 function voirDescription(description) {
