@@ -1029,5 +1029,7 @@
     }
   ],
   "panier": [],
-  "favoris": []
+  "favoris": [
+    1
+  ]
 }
