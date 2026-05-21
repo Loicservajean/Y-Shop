@@ -48,6 +48,16 @@ function ajouterFavori(id) {
     .catch(error => console.error('Erreur : ', error))
 }
 
+// Boucle sur les caracteristiques et les imprime en paragraphes
+function genererCaracteristiques(produit) {
+  if (!produit.caracteristiques) return ''
+  let html = ''
+  for (const [cle, valeur] of Object.entries(produit.caracteristiques)) {
+    html += `<p>${cle} : ${valeur}</p>`
+  }
+  return html
+}
+
 function afficherProduit(produit) {
   const main = document.getElementById('product-container')
 
@@ -77,6 +87,8 @@ function afficherProduit(produit) {
         <button onclick="voirDescription('${produit.description.replace(/'/g, "\\'")}')">
           Voir plus
         </button>
+
+        ${genererCaracteristiques(produit)}
 
         <p>Stock : ${produit.stock}</p>
 
