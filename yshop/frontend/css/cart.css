@@ -124,3 +124,18 @@ header a {
   text-align: right;
   color: #e74c3c;
 }
+
+.titre-shop {
+  font-size: 28px;
+  font-weight: bold;
+  margin-left: 20px;
+  color: #ffffff;
+  font-family: "Segoe UI", sans-serif;
+}
+
+.upheader {
+  display: flex;
+  justify-content: center; 
+  align-items: center;   
+  gap: 20px;           
+}

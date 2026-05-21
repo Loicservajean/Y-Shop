@@ -132,3 +132,18 @@ header a {
 #similaires p:hover {
   color: #3299ff;
 }
+
+.titre-shop {
+  font-size: 28px;
+  font-weight: bold;
+  margin-left: 20px;
+  color: #ffffff;
+  font-family: "Segoe UI", sans-serif;
+}
+
+.upheader {
+  display: flex;
+  justify-content: center; 
+  align-items: center;   
+  gap: 20px;           
+}
