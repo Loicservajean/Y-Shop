@@ -319,7 +319,9 @@
       "type": "manga",
       "origine": "officiel",
       "images": [
-        "Manga/SeasonalDreamVision.webp"
+        "Manga/SeasonalDreamVision.webp",
+        "Manga/SeasonalDreamVision2.jpg",
+        "Manga/SeasonalDreamVision3.jpg"
       ],
       "caracteristiques": {
         "type_manga": "Fanbook officiel",
@@ -359,7 +361,9 @@
       "type": "manga",
       "origine": "officiel",
       "images": [
-        "Manga/Forbidden Scrollery Vol 1-7.webp"
+        "Manga/Forbidden Scrollery Vol 1-7.webp",
+        "Manga/Forbidden Scrollery Vol 1-72.jpg",
+        "Manga/Forbidden Scrollery Vol 1-73.jpg"
       ],
       "caracteristiques": {
         "type_manga": "Manga officiel",
@@ -483,7 +487,9 @@
       "type": "manga",
       "origine": "officiel",
       "images": [
-        "Manga/CuriositiesofLotusAsia.webp"
+        "Manga/CuriositiesofLotusAsia.webp",
+        "Manga/CuriositiesofLotusAsia2.jpg",
+        "Manga/CuriositiesofLotusAsia3.jpg"
       ],
       "caracteristiques": {
         "type_manga": "Manga officiel",
@@ -607,7 +613,10 @@
       "type": "jeu",
       "origine": "officiel",
       "images": [
-        "Jeux/6.webp"
+        "Jeux/6.webp",
+        "Jeux/6backcover.jpg",
+        "Jeux/6disc.jpg",
+        "Jeux/6titlescreen.jpg"
       ],
       "caracteristiques": {
         "genre": "Danmaku",
@@ -626,7 +635,10 @@
       "type": "jeu",
       "origine": "officiel",
       "images": [
-        "Jeux/7.webp"
+        "Jeux/7.webp",
+        "Jeux/7cover.jpg",
+        "Jeux/7sc1.jpg",
+        "Jeux/7sc2.jpg"
       ],
       "caracteristiques": {
         "genre": "Danmaku",
@@ -1169,7 +1181,9 @@
       "type": "jeu",
       "origine": "officiel",
       "images": [
-        "Jeux/18.5.1.webp"
+        "Jeux/18.5.1.webp",
+        "Jeux/18.5CD.jpg",
+        "Jeux/18.5sc1.jpg"
       ],
       "caracteristiques": {
         "genre": "Danmaku",
