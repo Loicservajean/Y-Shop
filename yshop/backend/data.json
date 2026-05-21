@@ -13,7 +13,9 @@
         "Images/Alice-Margatroid-Plush.png"
       ],
       "caracteristiques": {
-        "race": "Humaine"
+        "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
+        "taille": "Standard (30cm)",
+        "matiere": "Coton & polyester"
       }
     },
     {
@@ -29,7 +31,9 @@
         "Images/Cirno-Plush.png"
       ],
       "caracteristiques": {
-        "race": "Fée"
+        "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
+        "taille": "Standard (30cm)",
+        "matiere": "Coton & polyester"
       }
     },
     {
@@ -45,7 +49,9 @@
         "Images/Hinanawi-Tenshi-Plush.png"
       ],
       "caracteristiques": {
-        "race": "Celestial"
+        "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
+        "taille": "Standard (30cm)",
+        "matiere": "Coton & polyester"
       }
     },
     {
@@ -61,7 +67,9 @@
         "Images/Koishi-Komeiji-Plush.png"
       ],
       "caracteristiques": {
-        "race": "Satori"
+        "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
+        "taille": "Standard (30cm)",
+        "matiere": "Coton & polyester"
       }
     },
     {
@@ -77,7 +85,9 @@
         "Images/Marisa-Kirisame-Plush.png"
       ],
       "caracteristiques": {
-        "race": "Humaine"
+        "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
+        "taille": "Standard (30cm)",
+        "matiere": "Coton & polyester"
       }
     },
     {
@@ -93,7 +103,9 @@
         "Images/Patchouli-Knowledge-Plush.png"
       ],
       "caracteristiques": {
-        "race": "Humaine"
+        "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
+        "taille": "Standard (30cm)",
+        "matiere": "Coton & polyester"
       }
     },
     {
@@ -109,7 +121,9 @@
         "Images/Reimu-Hakurei-Plush.png"
       ],
       "caracteristiques": {
-        "race": "Humaine"
+        "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
+        "taille": "Standard (30cm)",
+        "matiere": "Coton & polyester"
       }
     },
     {
@@ -125,7 +139,9 @@
         "Images/Reisen-Udongein-Inaba-Plush.png"
       ],
       "caracteristiques": {
-        "race": "Lapine Terrestre"
+        "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
+        "taille": "Standard (30cm)",
+        "matiere": "Coton & polyester"
       }
     },
     {
@@ -141,7 +157,9 @@
         "Images/Remilia-Scarlet-Plush.png"
       ],
       "caracteristiques": {
-        "race": "Vampire"
+        "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
+        "taille": "Standard (30cm)",
+        "matiere": "Coton & polyester"
       }
     },
     {
@@ -157,7 +175,9 @@
         "Images/Renko-Usami-Plush.png"
       ],
       "caracteristiques": {
-        "race": "Humaine"
+        "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
+        "taille": "Standard (30cm)",
+        "matiere": "Coton & polyester"
       }
     },
     {
@@ -173,7 +193,9 @@
         "Images/Sakuya-Izayoi-Plush.png"
       ],
       "caracteristiques": {
-        "race": "Humaine"
+        "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
+        "taille": "Standard (30cm)",
+        "matiere": "Coton & polyester"
       }
     },
     {
@@ -189,7 +211,9 @@
         "Images/Satori-Komeiji-Plush.png"
       ],
       "caracteristiques": {
-        "race": "Satori"
+        "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
+        "taille": "Standard (30cm)",
+        "matiere": "Coton & polyester"
       }
     },
     {
@@ -205,7 +229,9 @@
         "Images/Shion-Yorigami-Plush.png"
       ],
       "caracteristiques": {
-        "race": "Déesse"
+        "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
+        "taille": "Standard (30cm)",
+        "matiere": "Coton & polyester"
       }
     },
     {
@@ -221,7 +247,9 @@
         "Images/Tewi-Inaba-Plush.png"
       ],
       "caracteristiques": {
-        "race": "Youkai Rabbit"
+        "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
+        "taille": "Standard (30cm)",
+        "matiere": "Coton & polyester"
       }
     },
     {
@@ -237,7 +265,9 @@
         "Images/Youmu-Konpaku-Plush.png"
       ],
       "caracteristiques": {
-        "race": "Humaine, Phantom"
+        "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
+        "taille": "Standard (30cm)",
+        "matiere": "Coton & polyester"
       }
     },
     {
@@ -253,7 +283,9 @@
         "Images/Yuyuko-Saigyouji-Plush.png"
       ],
       "caracteristiques": {
-        "race": "Phantom"
+        "variantes": "Officiel Gift Inc., Bootleg, Édition Anniversaire",
+        "taille": "Standard (30cm)",
+        "matiere": "Coton & polyester"
       }
     },
     {
@@ -267,7 +299,13 @@
       "origine": "officiel",
       "images": [
         "Mangas/WildandHornedHermit.png"
-      ]
+      ],
+      "caracteristiques": {
+        "type_manga": "Manga officiel",
+        "variantes": "VO Japonais, VA Anglais (Yen Press), Fan-trad FR (PDF)",
+        "langue": "Japonais",
+        "format": "Coffret relié"
+      }
     },
     {
       "id": 18,
@@ -280,7 +318,13 @@
       "origine": "officiel",
       "images": [
         "Mangas/SeasonalDreamVision.webp"
-      ]
+      ],
+      "caracteristiques": {
+        "type_manga": "Fanbook officiel",
+        "variantes": "VO Japonais, VA Anglais (Yen Press), Fan-trad FR (PDF)",
+        "langue": "Japonais",
+        "format": "Broché"
+      }
     },
     {
       "id": 19,
@@ -293,7 +337,13 @@
       "origine": "officiel",
       "images": [
         "Mangas/Symposium of Post-Mysticism.jpg"
-      ]
+      ],
+      "caracteristiques": {
+        "type_manga": "Manga officiel",
+        "variantes": "VO Japonais, VA Anglais (Yen Press), Fan-trad FR (PDF)",
+        "langue": "Japonais",
+        "format": "Broché"
+      }
     },
     {
       "id": 20,
@@ -306,7 +356,13 @@
       "origine": "officiel",
       "images": [
         "Mangas/Forbidden Scrollery Vol 1-7.webp"
-      ]
+      ],
+      "caracteristiques": {
+        "type_manga": "Manga officiel",
+        "variantes": "VO Japonais, VA Anglais (Yen Press), Fan-trad FR (PDF)",
+        "langue": "Japonais",
+        "format": "Coffret relié"
+      }
     },
     {
       "id": 21,
@@ -319,7 +375,13 @@
       "origine": "officiel",
       "images": [
         "Mangas/StrangeandBrightNatureDeity.webp"
-      ]
+      ],
+      "caracteristiques": {
+        "type_manga": "Manga officiel",
+        "variantes": "VO Japonais, VA Anglais (Yen Press), Fan-trad FR (PDF)",
+        "langue": "Japonais",
+        "format": "Broché"
+      }
     },
     {
       "id": 22,
@@ -332,7 +394,13 @@
       "origine": "officiel",
       "images": [
         "Mangas/TouhouSangestsusei-OrientalSacredPlace.webp"
-      ]
+      ],
+      "caracteristiques": {
+        "type_manga": "Manga officiel",
+        "variantes": "VO Japonais, VA Anglais (Yen Press), Fan-trad FR (PDF)",
+        "langue": "Japonais",
+        "format": "Broché"
+      }
     },
     {
       "id": 23,
@@ -345,7 +413,13 @@
       "origine": "officiel",
       "images": [
         "Mangas/SilentSinnerinBlueVol1-3.webp"
-      ]
+      ],
+      "caracteristiques": {
+        "type_manga": "Manga officiel",
+        "variantes": "VO Japonais, VA Anglais (Yen Press), Fan-trad FR (PDF)",
+        "langue": "Japonais",
+        "format": "Coffret relié"
+      }
     },
     {
       "id": 24,
@@ -358,7 +432,13 @@
       "origine": "officiel",
       "images": [
         "Mangas/InabaoftheMoonandInabaoftheEarthVol 1-2.webp"
-      ]
+      ],
+      "caracteristiques": {
+        "type_manga": "Manga officiel",
+        "variantes": "VO Japonais, VA Anglais (Yen Press), Fan-trad FR (PDF)",
+        "langue": "Japonais",
+        "format": "Coffret relié"
+      }
     },
     {
       "id": 25,
@@ -371,7 +451,13 @@
       "origine": "officiel",
       "images": [
         "Mangas/BohemianArchiveinJapaneseRed.webp"
-      ]
+      ],
+      "caracteristiques": {
+        "type_manga": "Fanbook officiel",
+        "variantes": "VO Japonais, VA Anglais (Yen Press), Fan-trad FR (PDF)",
+        "langue": "Japonais",
+        "format": "Broché"
+      }
     },
     {
       "id": 26,
@@ -384,7 +470,13 @@
       "origine": "officiel",
       "images": [
         "Mangas/CuriositiesofLotusAsia.webp"
-      ]
+      ],
+      "caracteristiques": {
+        "type_manga": "Manga officiel",
+        "variantes": "VO Japonais, VA Anglais (Yen Press), Fan-trad FR (PDF)",
+        "langue": "Japonais",
+        "format": "Broché"
+      }
     },
     {
       "id": 27,
@@ -401,7 +493,10 @@
         "Jeux/1.3.jpg"
       ],
       "caracteristiques": {
-        "genre": "Danmaku"
+        "genre": "Danmaku",
+        "variantes": "Disquette PC-98 (origine), Réédition Windows, Émulation",
+        "plateforme": "PC-98",
+        "langue": "Japonais (patch anglais dispo)"
       }
     },
     {
@@ -419,7 +514,10 @@
         "Jeux/2.3.jpg"
       ],
       "caracteristiques": {
-        "genre": "Danmaku"
+        "genre": "Danmaku",
+        "variantes": "Disquette PC-98 (origine), Réédition Windows, Émulation",
+        "plateforme": "PC-98",
+        "langue": "Japonais (patch anglais dispo)"
       }
     },
     {
@@ -437,7 +535,10 @@
         "Jeux/3.3.jpg"
       ],
       "caracteristiques": {
-        "genre": "Versus"
+        "genre": "Versus",
+        "variantes": "Disquette PC-98 (origine), Réédition Windows, Émulation",
+        "plateforme": "PC-98",
+        "langue": "Japonais (patch anglais dispo)"
       }
     },
     {
@@ -455,7 +556,10 @@
         "Jeux/4.3.jpg"
       ],
       "caracteristiques": {
-        "genre": "Danmaku"
+        "genre": "Danmaku",
+        "variantes": "Disquette PC-98 (origine), Réédition Windows, Émulation",
+        "plateforme": "PC-98",
+        "langue": "Japonais (patch anglais dispo)"
       }
     },
     {
@@ -473,7 +577,10 @@
         "Jeux/5.3.jpg"
       ],
       "caracteristiques": {
-        "genre": "Danmaku"
+        "genre": "Danmaku",
+        "variantes": "Disquette PC-98 (origine), Réédition Windows, Émulation",
+        "plateforme": "PC-98",
+        "langue": "Japonais (patch anglais dispo)"
       }
     },
     {
@@ -489,7 +596,10 @@
         "Jeux/6.webp"
       ],
       "caracteristiques": {
-        "genre": "Danmaku"
+        "genre": "Danmaku",
+        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "plateforme": "Windows",
+        "langue": "Japonais (patch anglais dispo)"
       }
     },
     {
@@ -505,7 +615,10 @@
         "Jeux/7.webp"
       ],
       "caracteristiques": {
-        "genre": "Danmaku"
+        "genre": "Danmaku",
+        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "plateforme": "Windows",
+        "langue": "Japonais (patch anglais dispo)"
       }
     },
     {
@@ -523,7 +636,10 @@
         "Jeux/7.5.3.jpg"
       ],
       "caracteristiques": {
-        "genre": "Combat"
+        "genre": "Combat",
+        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "plateforme": "Windows",
+        "langue": "Japonais (patch anglais dispo)"
       }
     },
     {
@@ -541,7 +657,10 @@
         "Jeux/8.3.jpg"
       ],
       "caracteristiques": {
-        "genre": "Danmaku"
+        "genre": "Danmaku",
+        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "plateforme": "Windows",
+        "langue": "Japonais (patch anglais dispo)"
       }
     },
     {
@@ -559,7 +678,10 @@
         "Jeux/9.3.jpg"
       ],
       "caracteristiques": {
-        "genre": "Versus"
+        "genre": "Versus",
+        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "plateforme": "Windows",
+        "langue": "Japonais (patch anglais dispo)"
       }
     },
     {
@@ -577,7 +699,10 @@
         "Jeux/9.5.3.jpg"
       ],
       "caracteristiques": {
-        "genre": "Photographie"
+        "genre": "Photographie",
+        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "plateforme": "Windows",
+        "langue": "Japonais (patch anglais dispo)"
       }
     },
     {
@@ -595,7 +720,10 @@
         "Jeux/10.3.jpg"
       ],
       "caracteristiques": {
-        "genre": "Danmaku"
+        "genre": "Danmaku",
+        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "plateforme": "Windows",
+        "langue": "Japonais (patch anglais dispo)"
       }
     },
     {
@@ -613,7 +741,10 @@
         "Jeux/10.5.3.jpg"
       ],
       "caracteristiques": {
-        "genre": "Combat"
+        "genre": "Combat",
+        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "plateforme": "Windows",
+        "langue": "Japonais (patch anglais dispo)"
       }
     },
     {
@@ -631,7 +762,10 @@
         "Jeux/11.3.jpg"
       ],
       "caracteristiques": {
-        "genre": "Danmaku"
+        "genre": "Danmaku",
+        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "plateforme": "Windows",
+        "langue": "Japonais (patch anglais dispo)"
       }
     },
     {
@@ -649,7 +783,10 @@
         "Jeux/12.3.png"
       ],
       "caracteristiques": {
-        "genre": "Danmaku"
+        "genre": "Danmaku",
+        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "plateforme": "Windows",
+        "langue": "Japonais (patch anglais dispo)"
       }
     },
     {
@@ -667,7 +804,10 @@
         "Jeux/12.3.3.jpg"
       ],
       "caracteristiques": {
-        "genre": "Combat"
+        "genre": "Combat",
+        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "plateforme": "Windows",
+        "langue": "Japonais (patch anglais dispo)"
       }
     },
     {
@@ -685,7 +825,10 @@
         "Jeux/12.5.3.jpg"
       ],
       "caracteristiques": {
-        "genre": "Photographie"
+        "genre": "Photographie",
+        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "plateforme": "Windows",
+        "langue": "Japonais (patch anglais dispo)"
       }
     },
     {
@@ -703,7 +846,10 @@
         "Jeux/12.8.3.jpg"
       ],
       "caracteristiques": {
-        "genre": "Danmaku"
+        "genre": "Danmaku",
+        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "plateforme": "Windows",
+        "langue": "Japonais (patch anglais dispo)"
       }
     },
     {
@@ -721,7 +867,10 @@
         "Jeux/13.3.jpg"
       ],
       "caracteristiques": {
-        "genre": "Danmaku"
+        "genre": "Danmaku",
+        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "plateforme": "Windows",
+        "langue": "Japonais (patch anglais dispo)"
       }
     },
     {
@@ -738,7 +887,10 @@
         "Jeux/13.5.2.jpg"
       ],
       "caracteristiques": {
-        "genre": "Combat"
+        "genre": "Combat",
+        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "plateforme": "Windows",
+        "langue": "Japonais (patch anglais dispo)"
       }
     },
     {
@@ -756,7 +908,10 @@
         "Jeux/15.5.3.png"
       ],
       "caracteristiques": {
-        "genre": "Combat"
+        "genre": "Combat",
+        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "plateforme": "Windows",
+        "langue": "Japonais (patch anglais dispo)"
       }
     },
     {
@@ -774,7 +929,10 @@
         "Jeux/19.3.jpg"
       ],
       "caracteristiques": {
-        "genre": "Versus"
+        "genre": "Versus",
+        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "plateforme": "Windows",
+        "langue": "Japonais (patch anglais dispo)"
       }
     },
     {
@@ -792,7 +950,10 @@
         "Jeux/20.3.jpg"
       ],
       "caracteristiques": {
-        "genre": "Danmaku"
+        "genre": "Danmaku",
+        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "plateforme": "Windows",
+        "langue": "Japonais (patch anglais dispo)"
       }
     },
     {
@@ -810,7 +971,10 @@
         "Jeux/14.3.png"
       ],
       "caracteristiques": {
-        "genre": "Danmaku"
+        "genre": "Danmaku",
+        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "plateforme": "Windows",
+        "langue": "Japonais (patch anglais dispo)"
       }
     },
     {
@@ -828,7 +992,10 @@
         "Jeux/14.3.3.jpg"
       ],
       "caracteristiques": {
-        "genre": "Danmaku"
+        "genre": "Danmaku",
+        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "plateforme": "Windows",
+        "langue": "Japonais (patch anglais dispo)"
       }
     },
     {
@@ -846,7 +1013,10 @@
         "Jeux/14.5.3.jpg"
       ],
       "caracteristiques": {
-        "genre": "Combat"
+        "genre": "Combat",
+        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "plateforme": "Windows",
+        "langue": "Japonais (patch anglais dispo)"
       }
     },
     {
@@ -864,7 +1034,10 @@
         "Jeux/15.3.png"
       ],
       "caracteristiques": {
-        "genre": "Danmaku"
+        "genre": "Danmaku",
+        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "plateforme": "Windows",
+        "langue": "Japonais (patch anglais dispo)"
       }
     },
     {
@@ -882,7 +1055,10 @@
         "Jeux/16.3.jpg"
       ],
       "caracteristiques": {
-        "genre": "Danmaku"
+        "genre": "Danmaku",
+        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "plateforme": "Windows",
+        "langue": "Japonais (patch anglais dispo)"
       }
     },
     {
@@ -900,7 +1076,10 @@
         "Jeux/16.5.3.jpg"
       ],
       "caracteristiques": {
-        "genre": "Photographie"
+        "genre": "Photographie",
+        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "plateforme": "Windows",
+        "langue": "Japonais (patch anglais dispo)"
       }
     },
     {
@@ -918,7 +1097,10 @@
         "Jeux/17.3.jpg"
       ],
       "caracteristiques": {
-        "genre": "Danmaku"
+        "genre": "Danmaku",
+        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "plateforme": "Windows",
+        "langue": "Japonais (patch anglais dispo)"
       }
     },
     {
@@ -936,7 +1118,10 @@
         "Jeux/17.5.3.png"
       ],
       "caracteristiques": {
-        "genre": "Combat"
+        "genre": "Combat",
+        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "plateforme": "Windows",
+        "langue": "Japonais (patch anglais dispo)"
       }
     },
     {
@@ -954,7 +1139,10 @@
         "Jeux/18.3.jpg"
       ],
       "caracteristiques": {
-        "genre": "Danmaku"
+        "genre": "Danmaku",
+        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "plateforme": "Windows",
+        "langue": "Japonais (patch anglais dispo)"
       }
     },
     {
@@ -970,7 +1158,10 @@
         "Jeux/18.5.1.webp"
       ],
       "caracteristiques": {
-        "genre": "Danmaku"
+        "genre": "Danmaku",
+        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "plateforme": "Windows",
+        "langue": "Japonais (patch anglais dispo)"
       }
     },
     {
@@ -988,7 +1179,10 @@
         "Jeux/scarlet-curiosity-3.webp"
       ],
       "caracteristiques": {
-        "genre": "Action RPG"
+        "genre": "Action RPG",
+        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "plateforme": "Windows",
+        "langue": "Japonais (patch anglais dispo)"
       }
     },
     {
@@ -1006,7 +1200,10 @@
         "Jeux/natsu-yasai-3.webp"
       ],
       "caracteristiques": {
-        "genre": "Danmaku"
+        "genre": "Danmaku",
+        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "plateforme": "Windows",
+        "langue": "Japonais (patch anglais dispo)"
       }
     },
     {
@@ -1024,12 +1221,13 @@
         "Jeux/gensokyo-survivors-3.webp"
       ],
       "caracteristiques": {
-        "genre": "Roguelite"
+        "genre": "Roguelite",
+        "variantes": "Disque physique (Comiket), Steam, DLsite digital",
+        "plateforme": "Windows",
+        "langue": "Japonais (patch anglais dispo)"
       }
     }
   ],
   "panier": [],
-  "favoris": [
-    1
-  ]
+  "favoris": []
 }
