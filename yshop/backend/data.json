@@ -6,7 +6,7 @@
       "description": "Adorable peluche fan-made représentant Alice Margatroid, la magicienne manipulatrice de poupées du Manoir du Diable Écarlate. Tissu doux, environ 30cm de haut, coiffe et ruban brodés avec précision.",
       "prix": 6.99,
       "devise": "EUR",
-      "stock": 86,
+      "stock": 85,
       "type": "plush",
       "origine": "fan_made",
       "images": [
@@ -26,7 +26,7 @@
       "description": "Peluche fan-made de Cirno, la fée des glaces ⑨ la plus forte de Gensokyo ! Ailes en cristal de plastique transparent, ruban bleu brodé. La plus baka des peluches.",
       "prix": 9.99,
       "devise": "EUR",
-      "stock": 27,
+      "stock": 26,
       "type": "plush",
       "origine": "fan_made",
       "images": [
@@ -1280,6 +1280,20 @@
       }
     }
   ],
-  "panier": [],
-  "favoris": []
+  "panier": [
+    {
+      "productId": 1,
+      "quantite": 1,
+      "variante": "Édition Standard"
+    },
+    {
+      "productId": 2,
+      "quantite": 1,
+      "variante": "Édition Standard"
+    }
+  ],
+  "favoris": [
+    1,
+    2
+  ]
 }
