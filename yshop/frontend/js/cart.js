@@ -35,7 +35,8 @@ function afficherPanier(panier) {
       .then(response => response.json())
       .then(produit => {
 
-        const prixUnitaire = produit.prix * MULTIPLICATEURS[item.variante]
+        const mult = MULTIPLICATEURS[item.variante] || 1.0
+        const prixUnitaire = produit.prix * mult
         total += prixUnitaire * item.quantite
 
         div.innerHTML += `
@@ -49,7 +50,8 @@ function afficherPanier(panier) {
               <p>${(prixUnitaire * item.quantite).toFixed(2)} €</p>
             </div>
 
-            <button onclick="supprimerDuPanier(${item.productId})">Supprimer</button>
+            <input type="number" min="1" max="${item.quantite}" value="1" id="qte-retirer-${item.productId}-${item.variante}">
+            <button onclick="supprimerDuPanier(${item.productId}, '${item.variante}', this)">Retirer</button>
           </div>
         `
 
@@ -59,11 +61,17 @@ function afficherPanier(panier) {
 }
 
 // Supprimer du panier
-function supprimerDuPanier(productId) {
+function supprimerDuPanier(productId, variante, bouton) {
+  const input = document.getElementById(`qte-retirer-${productId}-${variante}`)
+  const quantite = parseInt(input.value)
+  bouton.disabled = true
+
   fetch(urlAPI + '/panier/' + productId, {
-    method: 'DELETE'
+    method: 'DELETE',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ variante, quantite })
   })
-  .then(() => chargerPanier())
+    .then(() => chargerPanier())
 }
 
 chargerPanier()
