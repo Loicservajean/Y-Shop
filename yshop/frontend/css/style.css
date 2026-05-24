@@ -28,17 +28,28 @@ header {
   image-rendering: pixelated;
 }
 
-.logo {
-  width: 150px;
+.upheader {
+  background: rgba(154, 216, 233, 0.8);
+  
+  display: flex;
+  justify-content: center; /* centre le contenu */
+  align-items: center;
+  position: relative;       /* permet de placer le logo */
 }
 
-.upheader {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  background: #3299ffb1;
-  padding: 15px 30px;
+.logo {
+  position: absolute;
+  left: 30px;
+  width: 130px;
+  border-radius: 40%;
 }
+
+.logotext {
+  width: 500px;
+  text-align: center;
+  height: 170px;
+}
+
 
 .navigation {
   display: flex;
@@ -69,10 +80,11 @@ main {
   border-radius: 4px;
 }
 
-#catalogue {
+.catalogue {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
   gap: 20px;
+
 }
 
 .product-card {

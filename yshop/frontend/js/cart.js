@@ -1,5 +1,14 @@
 const urlAPI = 'http://localhost:3000'
 
+// Meme table que dans product.js
+const MULTIPLICATEURS = {
+  'Édition Standard':       1.0,
+  'Édition Collector':      1.5,
+  'Édition Limitée signée': 2.0,
+  'Bootleg':                0.5,
+  'Édition Anniversaire':   1.4
+}
+
 // Charger le panier
 function chargerPanier() {
   fetch(urlAPI + '/panier')
@@ -26,7 +35,9 @@ function afficherPanier(panier) {
       .then(response => response.json())
       .then(produit => {
 
-        total += produit.prix * item.quantite
+        const mult = MULTIPLICATEURS[item.variante] || 1.0
+        const prixUnitaire = produit.prix * mult
+        total += prixUnitaire * item.quantite
 
         div.innerHTML += `
           <div class="panier-item">
@@ -34,11 +45,13 @@ function afficherPanier(panier) {
             
             <div class="info">
               <h3>${produit.nom}</h3>
+              <p>Variante : ${item.variante}</p>
               <p>Quantité : ${item.quantite}</p>
-              <p>${(produit.prix * item.quantite).toFixed(2)} €</p>
+              <p>${(prixUnitaire * item.quantite).toFixed(2)} €</p>
             </div>
 
-            <button onclick="supprimerDuPanier(${item.productId})">Supprimer</button>
+            <input type="number" min="1" max="${item.quantite}" value="1" id="qte-retirer-${item.productId}-${item.variante}">
+            <button onclick="supprimerDuPanier(${item.productId}, '${item.variante}', this)">Retirer</button>
           </div>
         `
 
@@ -48,11 +61,17 @@ function afficherPanier(panier) {
 }
 
 // Supprimer du panier
-function supprimerDuPanier(productId) {
+function supprimerDuPanier(productId, variante, bouton) {
+  const input = document.getElementById(`qte-retirer-${productId}-${variante}`)
+  const quantite = parseInt(input.value)
+  bouton.disabled = true
+
   fetch(urlAPI + '/panier/' + productId, {
-    method: 'DELETE'
+    method: 'DELETE',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ variante, quantite })
   })
-  .then(() => chargerPanier())
+    .then(() => chargerPanier())
 }
 
 chargerPanier()
