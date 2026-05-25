@@ -285,9 +285,9 @@ Il nous a également permis d’acquérir une expérience concrète proche d’u
 
 Projet réalisé par :
 
-* Nico
-* Loïc
-* [Ton nom]
+* CAILLOL Nicolas
+* SERVAJEAN Loic
+* DOUKALI Hocine
 
 ---
 
