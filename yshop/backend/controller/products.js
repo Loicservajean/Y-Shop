@@ -66,18 +66,25 @@ const addToPanier = (req, res) => {
 // Supprimer du panier
 const removeFromPanier = (req, res) => {
   const id = parseInt(req.params.id)
+  const { variante, quantite } = req.body
   const data = lireData()
 
-  // Retire 1 unite et rend +1 au stock
-  const item = data.panier.find(p => p.productId === id)
-  item.quantite -= 1
+  // Retire N unites de la ligne (productId + variante) et rend N au stock
+  const item = data.panier.find(p => p.productId === id && p.variante === variante)
+  if (!item) {
+    return res.status(404).json({ message: 'Ligne du panier introuvable' })
+  }
+
+  // On ne retire jamais plus que ce qu'il y a dans la ligne
+  const aRetirer = Math.min(quantite, item.quantite)
+  item.quantite -= aRetirer
 
   const product = data.products.find(p => p.id === id)
-  product.stock += 1
+  product.stock += aRetirer
 
   // Si la ligne est vide, on l'enleve du panier
   if (item.quantite <= 0) {
-    data.panier = data.panier.filter(p => p.productId !== id)
+    data.panier = data.panier.filter(p => !(p.productId === id && p.variante === variante))
   }
 
   sauvegarder(data)

@@ -39,7 +39,12 @@ function ajouterAuPanier(id) {
       variante
     })
   })
-    .then(() => {
+    .then(r => r.json().then(data => ({ ok: r.ok, data })))
+    .then(({ ok, data }) => {
+      if (!ok) {
+        alert('Impossible : ' + data.message)
+        return
+      }
       alert('Produit ajouté au panier !')
       chargerProduit()
     })
@@ -137,7 +142,7 @@ function afficherProduit(produit) {
 // Met a jour le prix affiche quand on change la variante
 function onVarianteChange() {
   const variante = document.getElementById('variante-select').value
-  const mult = MULTIPLICATEURS[variante]
+  const mult = MULTIPLICATEURS[variante] || 1.0
   const nouveauPrix = (prixDeBase * mult).toFixed(2)
   document.getElementById('prix-affiche').textContent = nouveauPrix + ' EUR'
 }
